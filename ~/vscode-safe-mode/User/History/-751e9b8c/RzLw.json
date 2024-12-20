@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Spaghetti Bolognese",
+        "description": "A classic Italian pasta dish with a rich and flavorful meat sauce.",
+        "Ingredients": ["Spaghetti", "Ground beef", "Onion", "Garlic", "Tomato sauce", "Tomato paste", "Olive oil", "Carrots", "Celery", "Salt", "Black pepper", "Basil", "Parmesan cheese"],
+        "instructions": "To prepare Spaghetti Bolognese, start by heating olive oil in a large pan over medium heat. Add finely chopped onions and minced garlic, and sauté them until soft and fragrant. Next, add the ground beef and cook it thoroughly, breaking it into smaller pieces with a wooden spoon as it browns. Stir in tomato paste and tomato sauce, then add finely chopped carrots and celery for added flavor and texture. Reduce the heat to low and allow the sauce to simmer gently for about 30 minutes, stirring occasionally to prevent sticking. Meanwhile, bring a large pot of salted water to a boil and cook the spaghetti until it reaches an al dente texture. Drain the spaghetti and divide it onto serving plates. Pour the rich and hearty Bolognese sauce over the spaghetti, and garnish with freshly grated Parmesan cheese and a sprinkle of basil. Serve hot and enjoy a delicious Italian classic.",
+        "cookingTime": 45,
+        "category": "Dinner",
+        "image": "https://i.ibb.co.com/y09R7yV/Vegetable-Stir-Fry-10.webp",
+        "createdBy": "Chef Mario"
+    }
+    {
+        {
+            "name": "Vegetable Stir-Fry",
+            "description": "A quick and healthy stir-fry packed with colorful vegetables.",
+            "Ingredients": ["Broccoli", "Carrots", "Bell peppers", "Snow peas", "Garlic", "Ginger", "Soy sauce", "Sesame oil", "Cornstarch", "Vegetable oil", "Salt", "Black pepper"],
+            "instructions": "Begin by preparing all the vegetables: chop the broccoli into small florets, slice the carrots thinly, and cut the bell peppers into strips. In a small bowl, mix together soy sauce, sesame oil, and a teaspoon of cornstarch to create a light sauce. Heat vegetable oil in a wok or large skillet over high heat. Once the oil is hot, add minced garlic and grated ginger, stirring quickly to release their aroma. Immediately add the chopped vegetables, starting with the carrots and broccoli as they take longer to cook, followed by the bell peppers and snow peas. Stir-fry the vegetables continuously for about five minutes, ensuring they remain crisp and vibrant in color. Pour the sauce over the vegetables, and toss them to coat evenly. Allow the sauce to thicken slightly as it cooks for an additional two minutes. Season with salt and black pepper to taste. Remove the stir-fry from the heat and serve immediately with steamed rice or noodles for a wholesome, colorful meal.",
+            "cookingTime": 20,
+            "category": "Lunch",
+            "image": "https://i.ibb.co.com/NCKzg81/Spaghetti-Bolognese-square-FS-0204.jpg",
+            "createdBy": "Chef Lee"
+          }
+    }
+
+]
