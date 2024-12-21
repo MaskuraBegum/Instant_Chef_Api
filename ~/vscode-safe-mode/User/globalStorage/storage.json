@@ -14,17 +14,10 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project"
-            },
-            {
                 "folderUri": "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/recipe_filter"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1734679529119"
-            }
-        ]
+        "emptyWindows": []
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -64,7 +57,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -147,6 +141,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
