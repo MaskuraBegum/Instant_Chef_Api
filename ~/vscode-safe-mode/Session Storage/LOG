@@ -1,2 +1,3 @@
-2024/12/20-23:04:08.445 181d Creating DB /mnt/hdd/HDD(lost+found)/instant_chef_project/recipe_filter/~/vscode-safe-mode/Session Storage since it was missing.
-2024/12/20-23:04:08.713 181d Reusing MANIFEST /mnt/hdd/HDD(lost+found)/instant_chef_project/recipe_filter/~/vscode-safe-mode/Session Storage/MANIFEST-000001
+2024/12/30-19:51:45.517 f52 Reusing MANIFEST /mnt/hdd/HDD(lost+found)/instant_chef_project/recipe_filter/~/vscode-safe-mode/Session Storage/MANIFEST-000001
+2024/12/30-19:51:45.518 f52 Recovering log #3
+2024/12/30-19:51:45.552 f52 Reusing old log /mnt/hdd/HDD(lost+found)/instant_chef_project/recipe_filter/~/vscode-safe-mode/Session Storage/000003.log 

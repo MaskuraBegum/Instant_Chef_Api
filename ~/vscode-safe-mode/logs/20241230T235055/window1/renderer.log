@@ -1,0 +1,37 @@
+2024-12-30 23:50:57.027 [info] Started local extension host with pid 13324.
+2024-12-30 23:50:57.996 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2024-12-30 23:50:58.014 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2024-12-30 23:50:58.019 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2024-12-30 23:50:58.027 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2024-12-30 23:50:58.030 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2024-12-30 23:50:58.033 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2024-12-30 23:50:58.036 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2024-12-30 23:50:58.038 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2024-12-30 23:50:58.043 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2024-12-30 23:50:58.045 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2024-12-30 23:50:58.050 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2024-12-30 23:50:58.051 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2024-12-30 23:50:58.052 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2024-12-30 23:51:04.086 [error] Cannot read properties of undefined (reading 'accessToken'): TypeError: Cannot read properties of undefined (reading 'accessToken')
+    at p.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:21851)
+    at p.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:22484)
+    at d.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:21653)
+2024-12-30 23:51:06.514 [info] Started local extension host with pid 13622.
+2024-12-30 23:51:11.815 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2024-12-30 23:51:11.816 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2024-12-30 23:51:11.816 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2024-12-30 23:51:11.820 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2024-12-30 23:51:11.821 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2024-12-30 23:51:11.834 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2024-12-30 23:51:11.839 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2024-12-30 23:51:11.841 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2024-12-30 23:51:11.844 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2024-12-30 23:51:11.845 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2024-12-30 23:51:11.849 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2024-12-30 23:51:11.852 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2024-12-30 23:51:11.860 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2024-12-30 23:51:11.905 [error] Cannot read properties of undefined (reading 'accessToken'): TypeError: Cannot read properties of undefined (reading 'accessToken')
+    at p.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:21851)
+    at p.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:22484)
+    at d.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:21653)
+2024-12-30 23:51:15.020 [info] [perf] Render performance baseline is 96ms
