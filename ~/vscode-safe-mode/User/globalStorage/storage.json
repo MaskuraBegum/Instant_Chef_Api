@@ -219,10 +219,6 @@
                                     "label": "&&Settings"
                                 },
                                 {
-                                    "id": "workbench.view.extensions",
-                                    "label": "&&Extensions"
-                                },
-                                {
                                     "id": "workbench.action.openGlobalKeybindings",
                                     "label": "Keyboard Shortcuts"
                                 },
@@ -806,7 +802,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -815,7 +812,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1313,10 +1311,6 @@
                 "label": "Ctrl+,",
                 "userSettingsLabel": "ctrl+,"
             },
-            "workbench.view.extensions": {
-                "label": "Ctrl+Shift+X",
-                "userSettingsLabel": "ctrl+shift+x"
-            },
             "workbench.action.openGlobalKeybindings": {
                 "label": "Ctrl+K Ctrl+S",
                 "isNative": false,
@@ -1512,6 +1506,10 @@
             "workbench.view.debug": {
                 "label": "Ctrl+Shift+D",
                 "userSettingsLabel": "ctrl+shift+d"
+            },
+            "workbench.view.extensions": {
+                "label": "Ctrl+Shift+X",
+                "userSettingsLabel": "ctrl+shift+x"
             },
             "workbench.actions.view.problems": {
                 "label": "Ctrl+Shift+M",

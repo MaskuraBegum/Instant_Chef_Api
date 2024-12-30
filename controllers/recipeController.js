@@ -26,5 +26,27 @@ catch(error){
     console.log(error)
 }
 }
+const getincludeRecicpes = async(req, res) =>{
+  try{
+      const { ingredients } = req.query;
+  
+      let filter = {};
+      if (ingredients) {
+        const ingredientList = ingredients.split(",").map((item) => item.trim());
+        filter = {
+          $and: ingredientList.map((ingredient) => ({
+            Ingredients: { $regex: new RegExp(ingredient, "i") }, 
+          })),
+        };
+      }
+      const recipeData = await recipe.find(filter);
+  
+      res.status(200).json({recipeData});
+  
+  }
+  catch(error){
+      console.log(error)
+  }
+  }
 
-module.exports = {getAllRecipes, getFilterRecicpes};
+module.exports = {getAllRecipes, getFilterRecicpes,getincludeRecicpes};
