@@ -3,7 +3,8 @@
     "profileAssociations": {
         "workspaces": {
             "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project": "__default__profile__",
-            "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/recipe_filter": "__default__profile__"
+            "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/recipe_filter": "__default__profile__",
+            "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/Instant-Chef": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -15,6 +16,9 @@
         "folders": [
             {
                 "folderUri": "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/recipe_filter"
+            },
+            {
+                "folderUri": "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/Instant-Chef"
             }
         ],
         "emptyWindows": []
@@ -62,6 +66,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/Instant-Chef",
+                                        "path": "/mnt/hdd/HDD(lost+found)/instant_chef_project/Instant-Chef",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/hdd/HDD(lost+found)/instant_chef_project/Instant-Chef"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -217,6 +232,10 @@
                                 {
                                     "id": "workbench.action.openSettings",
                                     "label": "&&Settings"
+                                },
+                                {
+                                    "id": "workbench.view.extensions",
+                                    "label": "&&Extensions"
                                 },
                                 {
                                     "id": "workbench.action.openGlobalKeybindings",
@@ -802,8 +821,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1311,6 +1329,10 @@
                 "label": "Ctrl+,",
                 "userSettingsLabel": "ctrl+,"
             },
+            "workbench.view.extensions": {
+                "label": "Ctrl+Shift+X",
+                "userSettingsLabel": "ctrl+shift+x"
+            },
             "workbench.action.openGlobalKeybindings": {
                 "label": "Ctrl+K Ctrl+S",
                 "isNative": false,
@@ -1506,10 +1528,6 @@
             "workbench.view.debug": {
                 "label": "Ctrl+Shift+D",
                 "userSettingsLabel": "ctrl+shift+d"
-            },
-            "workbench.view.extensions": {
-                "label": "Ctrl+Shift+X",
-                "userSettingsLabel": "ctrl+shift+x"
             },
             "workbench.actions.view.problems": {
                 "label": "Ctrl+Shift+M",
@@ -1737,8 +1755,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/recipe_filter",
-            "backupPath": "/mnt/hdd/HDD(lost+found)/instant_chef_project/recipe_filter/~/vscode-safe-mode/Backups/40b1ea0c11a82f5ac10f2857c66c6aab",
+            "folder": "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/Instant-Chef",
+            "backupPath": "/mnt/hdd/HDD(lost+found)/instant_chef_project/recipe_filter/~/vscode-safe-mode/Backups/4073496a1ce7c31bb9a6ffbd57fb221c",
             "uiState": {
                 "mode": 0,
                 "x": 171,
