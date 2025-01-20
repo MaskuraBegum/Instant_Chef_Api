@@ -39,6 +39,3 @@ const start = async()=>{
 start();
 
 
-// ZkTeIwzwQAOWKZqa
-// maskurabegum77
-// mongodb+srv://maskurabegum77:ZkTeIwzwQAOWKZqa@recipeapi.scvyx.mongodb.net/?retryWrites=true&w=majority&appName=RecipeApi
