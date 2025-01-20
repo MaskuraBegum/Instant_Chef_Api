@@ -63,9 +63,7 @@ const checkAuth = (req, res, next) => {
 
 // Middleware function to check if the user is an admin
 const checkAdmin = (req, res, next) => {
-  console.log('User Claims:', req.user?.claims || req.user)
   if (req.user?.claims?.isAdmin || req.user?.isAdmin) {
-    console.log("i am admin")
     next();  // User is an admin, proceed to the route handler
   } else {
     return res.status(403).json({ message: 'Access denied. Admins only.' });
