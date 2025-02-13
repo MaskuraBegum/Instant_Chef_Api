@@ -18,6 +18,706 @@
         "category": "Lunch",
         "image": "https://i.ibb.co.com/NCKzg81/Spaghetti-Bolognese-square-FS-0204.jpg",
         "createdBy": "Chef Lee"
+    },
+    {
+        "name": "Butter Chicken",
+        "description": "A creamy and rich chicken curry cooked in a tomato-based gravy with butter and spices.",
+        "Ingredients": ["Chicken", "Butter", "Tomato puree", "Cream", "Ginger", "Garlic", "Onion", "Garam masala", "Coriander powder", "Cumin", "Turmeric", "Red chili powder", "Salt"],
+        "instructions": "Marinate chicken with yogurt, lemon juice, ginger-garlic paste, red chili powder, turmeric, garam masala, and salt for at least 30 minutes. Cook the chicken in a pan or grill until fully cooked, then set aside. In a pan, heat butter and oil, sauté onions until golden, add ginger-garlic paste, and cook for a minute. Add tomato puree, red chili powder, garam masala, salt, and some water, then simmer for 5-7 minutes. Add the cooked chicken to the gravy, simmer for another 5-7 minutes, and then stir in cream, simmering for 2-3 more minutes. Garnish with fresh coriander and serve with naan or rice. Enjoy!.",
+        "cookingTime": 60,
+        "category": "Dinner",
+        "image": "https://i.ibb.co.com/ftVMbhh/restaurant-style-butter-chicken.jpg" ,
+        "createdBy": "Chef Arjun"
+    },
+    {
+        "name": "Masala Dosa",
+        "description": "A crispy South Indian crepe filled with spiced potato masala.",
+        "Ingredients": ["Rice", "Urad dal", "Fenugreek seeds", "Potato", "Onion", "Green chilies", "Mustard seeds", "Curry leaves", "Turmeric", "Salt"],
+        "instructions": "For the dosa batter, soak rice and urad dal for 4-6 hours, then grind them into a smooth batter and let it ferment overnight. For the masala filling, cook potatoes with mustard seeds, curry leaves, green chilies, onions, turmeric, and salt until soft. Mash the potatoes and mix everything together, then set aside. Heat a non-stick pan, pour a ladle of dosa batter, and spread it thin in a circular motion. Cook until golden brown, then add a portion of the potato filling in the center and fold the dosa. Serve hot with chutneys and sambar. Enjoy!",
+        "cookingTime": 45,
+        "category": "Breakfast",
+        "image": "https://i.ibb.co.com/M24JMwh/thumb-1200-0-0-0-auto.jpg",
+        "createdBy": "Chef Ananya"
+    },
+    {
+        "name": "Paneer Tikka",
+        "description": "Chunks of paneer marinated in yogurt and spices, grilled to perfection.",
+        "Ingredients": ["Paneer", "Yogurt", "Ginger-garlic paste", "Coriander powder", "Cumin powder", "Red chili powder", "Garam masala", "Lemon juice", "Salt"],
+        "instructions": "Marinate paneer cubes with yogurt, ginger-garlic paste, red chili powder, turmeric, garam masala, lemon juice, and salt for at least 30 minutes. Preheat your oven or grill. Skewer the marinated paneer pieces and cook in the oven at 200°C for 10-12 minutes or until slightly charred, or grill them in a pan with a little oil until golden. Serve hot with mint chutney and lemon wedges. Enjoy!",
+        "cookingTime": 30,
+        "category": "Appetizer",
+        "image": "https://i.ibb.co.com/s22XSWy/Restaurant-Style-Recipe-Paneer-Tikka.webp",
+        "createdBy": "Chef Priya"
+    },
+    {
+        "name": "Biryani",
+        "description": "A fragrant and flavorful rice dish layered with spiced meat or vegetables.",
+        "Ingredients": ["Basmati rice", "Chicken or vegetables", "Onion", "Yogurt", "Ginger", "Garlic", "Mint", "Coriander", "Garam masala", "Saffron", "Milk", "Salt"],
+        "instructions": "Marinate the meat with yogurt, spices (turmeric, chili powder, biryani masala), ginger-garlic paste, lemon juice, and salt for 1-2 hours. Boil water with salt, bay leaf, cloves, cardamom, and cinnamon, then cook soaked basmati rice until 70% done and drain. Fry sliced onions until golden, add the marinated meat, and cook until tender, then mix in tomatoes, mint, coriander, and green chilies to make the masala. In a pot, layer the cooked meat and partially cooked rice alternately, drizzling saffron milk, ghee, and fried onions between layers. Cover tightly and cook on very low heat for 20-25 minutes, then gently mix and serve hot with raita.",
+        "cookingTime": 90,
+        "category": "Main Course",
+        "Image": "https://i.ibb.co.com/CW83pXX/Chicken-Biryani-Recipe.jpg",
+        "createdBy": "Chef Rahul"
+    },
+    {
+        "name": "Chole Bhature",
+        "description": "A popular North Indian dish of spicy chickpeas served with deep-fried bread.",
+        "Ingredients": ["Chickpeas", "Onion", "Tomato", "Ginger-garlic paste", "Chole masala", "Cumin", "Green chilies", "Flour", "Yogurt", "Salt"],
+        "instructions": "Soak chickpeas overnight, then pressure cook them with salt and a pinch of baking soda until soft. In a pan, heat oil, sauté onions until golden, add ginger-garlic paste, and cook until fragrant. Add tomatoes, cook until soft, then mix in spices (turmeric, red chili powder, coriander, garam masala, and chole masala). Stir in the cooked chickpeas and simmer until the gravy thickens. For the bhature, knead a dough with flour, yogurt, a pinch of salt, and a little baking powder, then let it rest for an hour. Roll into discs and deep-fry until puffed and golden. Serve the hot chole with freshly made bhature, along with onion, lemon, and pickle.",
+        "cookingTime": 60,
+        "category": "Lunch",
+        "Image": "https://i.ibb.co.com/C9C2CwV/Chole-Bhature-Featured.jpg",
+        "createdBy": "Chef Riya"
+    },
+    {
+        "name": "Samosa",
+        "description": "A crispy fried pastry filled with spicy potato filling.",
+        "Ingredients": ["Flour", "Potato", "Peas", "Cumin", "Coriander", "Green chilies", "Garam masala", "Salt", "Oil"],
+        "instructions": "Prepare the dough by mixing flour, salt, and a bit of oil, then knead with water into a firm dough and let it rest. For the filling, boil and mash potatoes, then sauté with oil, cumin seeds, green chilies, ginger, peas, and spices (turmeric, red chili powder, garam masala, coriander, and amchur). Roll the dough into thin circles, cut into halves, and shape each half into a cone. Fill the cone with the potato mixture, seal the edges with water, and form a triangle. Deep-fry the samosas in hot oil on medium heat until golden and crispy. Serve hot with tamarind or mint chutney.",
+        "cookingTime": 40,
+        "category": "Snack",
+        "image": "https://i.ibb.co.com/WKPmp5F/indian-samosas-recipe-large.webp",
+        "createdBy": "Chef Vinod"
+    },
+    {
+        "name": "Rogan Josh",
+        "description": "A rich and aromatic Kashmiri lamb curry.",
+        "Ingredients": ["Lamb", "Yogurt", "Onion", "Garlic", "Ginger", "Kashmiri chili", "Cumin", "Cardamom", "Cloves", "Cinnamon", "Salt"],
+        "instructions": "Heat oil or ghee in a pan, add whole spices (cinnamon, cloves, cardamom, bay leaf) and sauté until fragrant. Add sliced onions and cook until golden brown, then stir in ginger-garlic paste and cook for a minute. Add mutton pieces and sear on high heat until browned. Lower the heat, mix in yogurt, and cook until the oil separates. Add spices (turmeric, red chili powder, coriander, and garam masala) and stir well. Pour in water, cover, and simmer until the mutton is tender and the gravy thickens. Finish with a pinch of saffron soaked in milk and garnish with fresh coriander. Serve hot with naan or rice.",
+        "cookingTime": 75,
+        "category": "Dinner",
+        "image": "https://i.ibb.co.com/Pxy1LvN/53192600.webp" ,
+        "createdBy": "Chef Kabir"
+    },
+    {
+        "name": "Pav Bhaji",
+        "description": "A spicy mashed vegetable curry served with buttered bread rolls.",
+        "Ingredients": ["Potato", "Tomato", "Onion", "Capsicum", "Peas", "Pav bhaji masala", "Butter", "Pav buns", "Salt"],
+        "instructions": "Boil mixed vegetables like potatoes, cauliflower, peas, and carrots until soft, then mash them. In a pan, heat butter, sauté chopped onions until golden, add ginger-garlic paste, and cook until fragrant. Stir in chopped tomatoes and cook until soft. Add spices (turmeric, red chili powder, pav bhaji masala) and cook until the masala is well blended. Mix in the mashed vegetables, adjust salt, and simmer while mashing further until a thick consistency is achieved. Toast the pav (buns) in butter until golden. Serve the bhaji hot, garnished with butter, chopped onions, and coriander, along with the toasted pav and lemon wedges.",
+        "cookingTime": 40,
+        "category": "Snack",
+        "image": "https://i.ibb.co.com/VxpqvWd/Pav-bhaji.jpg" ,
+        "createdBy": "Chef Meera"
+    },
+    {
+        "name": "Aloo Paratha",
+        "description": "A stuffed Indian flatbread filled with spiced mashed potatoes.",
+        "Ingredients": ["Flour", "Potato", "Coriander", "Green chilies", "Garam masala", "Cumin", "Salt", "Butter"],
+        "instructions": "Prepare the dough by mixing flour, a pinch of salt, and water to form a soft dough, then let it rest. For the filling, mash boiled potatoes and mix with chopped onions, green chilies, coriander, and spices (red chili powder, cumin, garam masala, and salt). Divide the dough into small balls, roll out one ball slightly, place a portion of the potato filling in the center, and seal the edges to form a stuffed ball. Roll it out gently into a flat circle. Cook the paratha on a hot tawa, applying ghee or butter on both sides, until golden and crisp. Serve hot with yogurt, pickle, or butter.",
+        "cookingTime": 30,
+        "category": "Breakfast",
+        "image": "https://i.ibb.co.com/vJmzqQL/Aloo-Paratha-4.jpg" ,
+        "createdBy": "Chef Neha"
+    },
+    {
+        "name": "Gulab Jamun",
+        "description": "Soft and spongy deep-fried milk solids soaked in sugar syrup.",
+        "Ingredients": ["Milk powder", "Flour", "Sugar", "Cardamom", "Rose water", "Ghee"],
+        "instructions": "Prepare the dough by mixing milk powder, all-purpose flour, a pinch of baking soda, and ghee, then knead lightly with milk to form a soft, smooth dough. Shape the dough into small, smooth balls without cracks. Make the syrup by boiling sugar, water, and a few cardamom pods, then simmer until slightly sticky and add rose water or saffron. Deep-fry the balls on low heat until golden brown, then soak them in the warm sugar syrup for at least 1-2 hours. Serve warm or chilled, garnished with chopped nuts.",
+        "cookingTime": 45,
+        "category": "Dessert",
+        "image": "https://i.ibb.co.com/HFV9kKw/gulab-jamun.jpg",
+        "createdBy": "Chef Ramesh"
+    },
+    {
+        "name": "Shorshe Ilish",
+        "description": "A traditional Bangladeshi dish of Hilsa fish cooked in a mustard seed sauce.",
+        "Ingredients": ["Hilsa fish", "Mustard seeds", "Green chilies", "Turmeric powder", "Mustard oil", "Salt"],
+        "instructions": "Clean hilsa (ilish) fish and marinate it with turmeric and salt. Make a paste of mustard seeds, green chilies, and a little water. Heat mustard oil in a pan, add slit green chilies, and the mustard paste. Cook for a minute, then add turmeric, salt, and water to create a thin gravy. Gently add the fish pieces and cook on low heat until the fish is tender and the oil floats on top. Serve hot with steamed rice for an authentic Bengali meal.",
+        "cookingTime": 40,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/44nXzzw/Ilish-Macher-Sorshe-bata-diye-Jhal.jpg" ,
+        "createdBy": "Chef Rahima"
+    },
+    {
+        "name": "Kacchi Biryani",
+        "description": "A flavorful dish made with marinated mutton, fragrant rice, and aromatic spices.",
+        "Ingredients": ["Mutton", "Basmati rice", "Yogurt", "Onion", "Garlic", "Ginger", "Saffron", "Milk", "Ghee", "Cardamom", "Cinnamon", "Bay leaves", "Salt"],
+        "instructions": "Marinate mutton (or beef) with yogurt, ginger-garlic paste, red chili powder, turmeric, garam masala, and salt, and let it sit for 4-6 hours. Rinse basmati rice and soak for 30 minutes. Heat ghee or oil in a large pot, fry whole spices (bay leaf, cinnamon, cardamom, cloves), then fry onions until golden brown. Add marinated mutton to the pot and cook until the oil separates from the masala. In another pot, cook the soaked rice with whole spices and salt until 70% done, then drain. Layer the partially cooked rice over the mutton, drizzle saffron milk and ghee, and cover tightly. Cook on low heat for 40-45 minutes (or use a tawa to prevent direct heat). Serve hot with raita or salad.",
+        "cookingTime": 120,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/HhNcr7D/Special-Kacchi-Biryani-jpg.webp" ,
+        "createdBy": "Chef Sayeed"
+    },
+    {
+        "name": "Shutki Bhuna",
+        "description": "A spicy and aromatic dry fish curry, a classic in Bangladeshi households.",
+        "Ingredients": ["Dry fish", "Onion", "Garlic", "Ginger", "Tomato", "Mustard oil", "Turmeric", "Red chili powder", "Green chilies", "Salt"],
+        "instructions": "Soak dry fish (shutki) in warm water for 15-20 minutes to soften, then drain and set aside. Heat mustard oil in a pan, add whole spices (bay leaf, cardamom, cinnamon, cloves), and sauté for a minute. Add finely chopped onions and cook until golden brown. Stir in ginger-garlic paste, chopped tomatoes, and green chilies, cooking until the tomatoes soften. Add turmeric, red chili powder, coriander powder, and salt, and cook the masala until oil starts to separate. Add the soaked shutki fish, mix gently, and cook on low heat for 15-20 minutes, allowing the flavors to blend. Garnish with fresh coriander and serve with rice.",
+        "cookingTime": 50,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/8sQHZKp/Pohela-Boishakh-2021-The-Spice-Odyssey-24.jpg" ,
+        "createdBy": "Chef Fatema"
+    },
+    {
+        "name": "Chingri Malai Curry",
+        "description": "A creamy and flavorful prawn curry cooked in coconut milk.",
+        "Ingredients": ["Prawns", "Coconut milk", "Onion", "Garlic", "Ginger", "Turmeric", "Red chili powder", "Mustard oil", "Salt"],
+        "instructions": "Marinate prawns (chingri) with turmeric, salt, and a little lemon juice for 15 minutes. Heat mustard oil in a pan, add whole spices (bay leaf, cardamom, cloves, and cinnamon), and sauté for a minute. Add finely chopped onions and cook until golden brown, then add ginger-garlic paste and cook until fragrant. Stir in chopped tomatoes, turmeric, red chili powder, and garam masala, and cook until the masala thickens. Add coconut milk and water to create a creamy gravy, then add the marinated prawns and cook until they turn pink and tender. Simmer for 5-7 minutes, adjust salt, and garnish with fresh coriander. Serve hot with steamed rice.",
+        "cookingTime": 40,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/DWXYGy5/Chingri-Malai-Curry-34-Original.jpg" ,
+        "createdBy": "Chef Ayesha"
+    },
+    {
+        "name": "Panta Bhat",
+        "description": "A traditional dish of fermented rice served with mustard oil, onion, and fried hilsa.",
+        "Ingredients": ["Cooked rice", "Water", "Onion", "Green chilies", "Mustard oil", "Fried hilsa", "Salt"],
+        "instructions": "Soak leftover rice in water overnight, allowing it to ferment slightly. The next day, drain the water from the rice. In a bowl, mix the soaked rice with cold water, and add salt to taste. You can also add finely chopped onions, green chilies, and mustard oil for extra flavor. Garnish with fresh coriander and a dash of lime juice. Serve with fried hilsa fish, mashed potatoes, or pickles for a traditional Bengali meal.",
+        "cookingTime": 15,
+        "category": "Breakfast",
+        "image": "https://i.ibb.co.com/VBTmmCX/Made-In-Bangladesh-Article-2000x1304.jpg" ,
+        "createdBy": "Chef Karim"
+    },
+    {
+        "name": "Dim Bhuna",
+        "description": "A spicy egg curry cooked with caramelized onions and rich spices.",
+        "Ingredients": ["Eggs", "Onion", "Garlic", "Ginger", "Tomato", "Turmeric", "Red chili powder", "Cumin", "Mustard oil", "Salt"],
+        "instructions": "Heat oil in a pan and sauté whole spices (bay leaf, cinnamon, cardamom, and cloves) for a minute. Add finely chopped onions and cook until golden brown. Stir in ginger-garlic paste and cook until fragrant. Add chopped tomatoes, turmeric, red chili powder, coriander powder, and salt, and cook until the masala thickens and oil separates. Add boiled eggs (dim) and gently stir, ensuring the eggs are coated with the masala. Add a little water to create a thick gravy, then simmer for 10-15 minutes. Garnish with fresh coriander and serve hot with rice or paratha.",
+        "cookingTime": 30,
+        "category": "Side Dish",
+        "image": "https://i.ibb.co.com/tPLFHRd/Din-Bhuna-Egg-curry.webp" ,
+        "createdBy": "Chef Jahanara"
+    },
+    {
+        "name": "Beef Tehari",
+        "description": "A fragrant and spiced rice dish with tender beef pieces.",
+        "Ingredients": ["Beef", "Basmati rice", "Onion", "Garlic", "Ginger", "Yogurt", "Turmeric", "Red chili powder", "Bay leaves", "Cinnamon", "Cardamom", "Salt"],
+        "instructions": "Heat oil in a large pot and sauté whole spices (bay leaf, cinnamon, cardamom, and cloves) for a minute. Add finely chopped onions and cook until golden brown. Stir in ginger-garlic paste and sauté until fragrant, then add chopped tomatoes and cook until soft. Add beef pieces, salt, and spices (turmeric, red chili powder, cumin powder, garam masala) and cook until the beef is browned and the oil separates from the masala. Add water and cook the beef until tender. In a separate pot, cook soaked basmati rice until 70% done and drain. Layer the cooked beef and rice, drizzle some ghee, cover tightly, and cook on low heat for 20-25 minutes (or use a tawa to prevent direct heat). Serve hot with raita or salad.",
+        "cookingTime": 90,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/L9fCkZm/Beef-Tehari-jpg.webp" ,
+        "createdBy": "Chef Shakil"
+    },
+    {
+        "name": "Beguni",
+        "description": "Crispy eggplant fritters coated in a spiced gram flour batter.",
+        "Ingredients": ["Eggplant", "Gram flour", "Turmeric", "Red chili powder", "Salt", "Oil"],
+        "instructions": "Slice eggplant (beguni) into thin rounds and sprinkle with salt. Let it sit for 10-15 minutes to draw out excess moisture, then pat dry with a kitchen towel. In a bowl, mix besan (chickpea flour), rice flour, turmeric, red chili powder, salt, and a pinch of baking powder. Add water gradually to make a thick batter. Heat oil in a pan or wok for deep frying. Dip the eggplant slices into the batter and fry them in hot oil until golden and crispy. Remove from oil and drain on paper towels. Serve hot with tamarind or mint chutney.",
+        "cookingTime": 20,
+        "category": "Snack",
+        "image": "https://i.ibb.co.com/wL39nqz/img-1628-1.webp" ,
+        "createdBy": "Chef Laila"
+    },
+    {
+        "name": "Payesh",
+        "description": "A creamy rice pudding made with milk, sugar, and cardamom.",
+        "Ingredients": ["Rice", "Milk", "Sugar", "Cardamom", "Bay leaves", "Ghee", "Nuts"],
+        "instructions": "Boil milk in a heavy-bottomed pan, stirring occasionally to prevent burning. Once the milk reduces slightly, add washed rice (preferably gobindobhog or basmati) and cook on low heat until the rice becomes soft and the milk thickens. Add sugar to taste and continue to cook until the sugar dissolves completely and the milk thickens further. Stir in cardamom powder and a pinch of saffron for flavor. Optionally, add ghee and chopped nuts (cashews, almonds, or raisins) for extra richness. Let it simmer for a few more minutes, then remove from heat. Serve warm or chilled, garnished with more nuts if desired.",
+        "cookingTime": 60,
+        "category": "Dessert",
+        "image": "https://i.ibb.co.com/zZJYD25/chaler-payesh-recipe.jpg" ,
+        "createdBy": "Chef Ruma"
+    },
+    {
+        "name": "Luchi with Alur Dum",
+        "description": "Deep-fried puffed bread served with a spiced potato curry.",
+        "Ingredients": ["Flour", "Potato", "Onion", "Garlic", "Ginger", "Cumin", "Turmeric", "Red chili powder", "Oil", "Salt"],
+        "instructions": "For Luchi: Mix all-purpose flour, a pinch of salt, and a little sugar with warm water and knead into a soft, smooth dough. Let it rest for 15-20 minutes. Divide the dough into small balls, roll each into a small, thin circle, and deep-fry in hot oil until puffed and golden.For Alur Dum: Heat oil in a pan, add whole spices (bay leaf, cinnamon, cardamom, cloves), and sauté for a minute. Add finely chopped onions and cook until golden. Stir in ginger-garlic paste, chopped tomatoes, and cook until soft. Add boiled and peeled potatoes, turmeric, red chili powder, coriander powder, garam masala, and salt. Add a little water to create a thick gravy, then simmer for 10-15 minutes until the potatoes absorb the flavors. Garnish with fresh coriander and serve hot with luchi.",
+        "cookingTime": 45,
+        "category": "Breakfast",
+        "image": "https://i.ibb.co.com/6N9SGxq/img-7076-ezy-watermark-29-04-2019-08-09-27pm.webp" ,
+        "createdBy": "Chef Tasnim"
+    },
+    {
+        "name": "Chicken Karahi",
+        "description": "A flavorful and spicy chicken curry cooked in a wok with tomatoes and green chilies.",
+        "Ingredients": ["Chicken", "Tomatoes", "Ginger", "Garlic", "Green chilies", "Coriander", "Cumin", "Red chili powder", "Salt", "Oil"],
+        "instructions": "Heat oil in a wok or a deep pan (karahi), add whole spices (cinnamon, cardamom, cloves, and bay leaf), and sauté for a minute. Add chopped onions and cook until golden brown. Stir in ginger-garlic paste and cook until fragrant. Add chicken pieces and brown them on all sides. Add chopped tomatoes, green chilies, and cook until the tomatoes soften. Sprinkle turmeric, red chili powder, coriander powder, garam masala, and salt, and cook until the oil separates from the masala. Add a little water to make a thick gravy, then simmer until the chicken is tender and cooked through. Garnish with fresh coriander, julienned ginger, and green chilies. Serve hot with naan or rice.",
+        "cookingTime": 45,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/3S198bJ/images-14.jpg",
+        "createdBy": "Chef Hina"
+    },
+    {
+        "name": "Nihari",
+        "description": "A slow-cooked stew made with tender beef or mutton and rich spices.",
+        "Ingredients": ["Beef or mutton", "Ginger", "Garlic", "Onion", "Flour", "Red chili powder", "Turmeric", "Garam masala", "Salt", "Oil"],
+        "instructions": "Heat oil or ghee in a large pot and sauté whole spices (cinnamon, cardamom, cloves, bay leaf, and star anise) for a minute. Add thinly sliced onions and cook until golden brown. Stir in ginger-garlic paste and cook until fragrant. Add beef shank or mutton pieces and brown them on all sides. Add chopped tomatoes, turmeric, red chili powder, coriander powder, and salt, and cook until the oil separates from the masala. Add water (enough to cover the meat) and bring it to a boil. Reduce the heat to low, cover, and simmer for 3-4 hours until the meat becomes tender and the gravy thickens. Stir in a mixture of flour and water (optional) to thicken the sauce further. Garnish with fresh coriander, fried onions, and serve hot with naan or rice.",
+        "cookingTime": 180,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/wLPwQ0j/nihari-650x400-81498470650.webp",
+        "createdBy": "Chef Ahmed"
+    },
+    {
+        "name": "Haleem",
+        "description": "A hearty and nutritious stew made with lentils, wheat, and meat.",
+        "Ingredients": ["Meat", "Wheat", "Lentils", "Onion", "Ginger", "Garlic", "Spices", "Ghee", "Salt", "Green chilies"],
+        "instructions": "Soak wheat, barley, and split lentils (moong dal, masoor dal) overnight. In a large pot, heat oil or ghee, and sauté whole spices (cinnamon, cardamom, cloves, and bay leaf) for a minute. Add finely chopped onions and cook until golden. Stir in ginger-garlic paste and sauté until fragrant. Add boneless chicken or mutton pieces, and cook until browned. Add chopped tomatoes, turmeric, red chili powder, coriander powder, and salt, and cook until the oil separates from the masala. Add soaked wheat, barley, and lentils, then pour in enough water to cover everything. Cook on low heat, stirring occasionally, until the grains and lentils are soft and the meat is tender (you can also use a pressure cooker to speed up this process). Once cooked, blend the mixture with a hand blender until smooth and creamy. Garnish with fried onions, fresh coriander, and lemon juice. Serve hot with naan or paratha.",
+        "cookingTime": 240,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/2K9tYnB/Haleem-2.jpg",
+        "createdBy": "Chef Saima"
+    },
+    {
+        "name": "Biryani",
+        "description": "A layered rice dish with spiced meat or chicken and fragrant basmati rice.",
+        "Ingredients": ["Rice", "Chicken or Beef", "Onion", "Yogurt", "Tomatoes", "Ginger", "Garlic", "Spices", "Saffron", "Milk"],
+        "instructions": "Marinate beef (preferably bone-in) with yogurt, ginger-garlic paste, red chili powder, turmeric, garam masala, and salt, and let it sit for at least 2-3 hours. Rinse basmati rice and soak it for 30 minutes. Heat oil or ghee in a large pot, add whole spices (bay leaf, cinnamon, cardamom, cloves), and sauté for a minute. Add sliced onions and fry until golden brown, then add marinated beef and cook until browned. Add chopped tomatoes, green chilies, and cook until the tomatoes soften. Add water and cook the beef until tender (you can use a pressure cooker to speed up the process). In another pot, cook the soaked rice until it's 70% done, then drain it. Layer the cooked beef and rice in a large pot, drizzle some ghee, saffron milk, and fried onions. Cover tightly and cook on low heat for 20-25 minutes (or use a tawa to avoid direct heat). Serve hot with raita or salad.",
+        "cookingTime": 90,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/k4VkL7M/Chicken-Biryani.jpg",
+        "createdBy": "Chef Asad"
+    },
+    {
+        "name": "Seekh Kebab",
+        "description": "Spiced minced meat skewers grilled to perfection.",
+        "Ingredients": ["Minced meat", "Onion", "Green chilies", "Coriander", "Ginger", "Garlic", "Cumin", "Garam masala", "Salt", "Oil"],
+        "instructions": "In a bowl, mix minced beef or chicken with finely chopped onions, garlic, ginger, green chilies, and fresh coriander. Add spices like cumin, coriander powder, garam masala, red chili powder, turmeric, and salt. Add a beaten egg and some breadcrumbs or soaked bread to bind the mixture. Mix everything well, then shape the mixture onto skewers, pressing firmly to form long, cylindrical kebabs. Heat a grill or pan with oil and cook the kebabs, turning occasionally until they are browned and cooked through. Serve hot with naan, raita, and a squeeze of lemon.",
+        "cookingTime": 40,
+        "category": "Appetizer",
+        "image": "https://i.ibb.co.com/LpzsBWQ/kebabs.jpg",
+        "createdBy": "Chef Farah"
+    },
+    {
+        "name": "Aloo Keema",
+        "description": "A simple and comforting dish of minced meat cooked with potatoes and spices.",
+        "Ingredients": ["Minced meat", "Potatoes", "Onion", "Tomato", "Ginger", "Garlic", "Green chilies", "Turmeric", "Red chili powder", "Salt"],
+        "instructions": "Heat oil in a pan, add whole spices (bay leaf, cinnamon, cardamom, and cloves), and sauté for a minute. Add finely chopped onions and cook until golden brown. Stir in ginger-garlic paste and cook until fragrant. Add minced meat (beef, chicken, or mutton) and cook until browned. Add chopped tomatoes, turmeric, red chili powder, coriander powder, and salt, and cook until the oil separates from the masala. Add diced potatoes and mix well. Pour in a little water and simmer until the potatoes are cooked and tender. Garnish with fresh coriander and serve hot with rice or roti.",
+        "cookingTime": 50,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/qMqvgf0/keema-aloo.jpg",
+        "createdBy": "Chef Zainab"
+    },
+    {
+        "name": "Saag",
+        "description": "A traditional dish of pureed mustard greens and spinach cooked with spices.",
+        "Ingredients": ["Mustard greens", "Spinach", "Onion", "Garlic", "Ginger", "Green chilies", "Cornmeal", "Ghee", "Salt"],
+        "instructions": "Wash and chop mustard greens (saag) and spinach. In a large pot, heat mustard oil and sauté whole spices (bay leaf, cumin seeds, and dried red chilies) for a minute. Add finely chopped onions and cook until golden. Stir in ginger-garlic paste and cook until fragrant. Add chopped tomatoes, turmeric, red chili powder, and salt, and cook until the tomatoes soften. Add the chopped greens and cook on low heat, stirring occasionally, until the greens are tender and the flavors meld together. For a richer taste, add a little ghee at the end. Serve hot with makki di roti or rice.",
+        "cookingTime": 60,
+        "category": "Side Dish",
+        "image": "https://i.ibb.co.com/NNBgSDY/images-13.jpg",
+        "createdBy": "Chef Bilal"
+    },
+    {
+        "name": "Karahi Gosht",
+        "description": "A rich and spicy mutton curry cooked in a traditional wok with fresh spices.",
+        "Ingredients": ["Mutton", "Tomatoes", "Ginger", "Garlic", "Green chilies", "Coriander", "Cumin", "Red chili powder", "Salt", "Oil"],
+        "instructions": "Heat oil in a karahi (wok-style pan), add whole spices (bay leaf, cinnamon, cardamom, cloves), and sauté for a minute. Add sliced onions and cook until golden brown. Stir in ginger-garlic paste and cook until fragrant. Add the meat (usually goat or chicken) and brown it on all sides. Add chopped tomatoes, green chilies, turmeric, red chili powder, coriander powder, and salt. Cook until the tomatoes soften and the oil separates from the masala. Add a little water to create a thick gravy, then simmer on low heat until the meat is tender and cooked through. Garnish with fresh coriander, ginger slices, and green chilies. Serve hot with naan or rice.",
+        "cookingTime": 90,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/Fs7KbVX/images-12.jpg",
+        "createdBy": "Chef Yasir"
+    },
+    {
+        "name": "Chana Chaat",
+        "description": "A tangy and spicy chickpea salad with fresh vegetables and tamarind chutney.",
+        "Ingredients": ["Chickpeas", "Onion", "Tomato", "Green chilies", "Coriander", "Tamarind chutney", "Chaat masala", "Salt"],
+        "instructions": "Boil chickpeas (chana) until soft, then drain and set aside. In a bowl, combine the boiled chickpeas with chopped tomatoes, onions, cucumbers, and green chilies. Add fresh coriander leaves, a squeeze of lemon juice, and salt to taste. Sprinkle with chaat masala, cumin powder, and red chili powder. For extra flavor, drizzle tamarind chutney or mint chutney over the top. Toss everything together and serve immediately as a refreshing snack or appetizer.",
+        "cookingTime": 20,
+        "category": "Snack",
+        "image": "https://i.ibb.co.com/KGLqxNh/chana-chaat-with-yogurt.jpg",
+        "createdBy": "Chef Sana"
+    },
+    {
+        "name": "Zarda",
+        "description": "A sweet rice dessert flavored with cardamom, saffron, and garnished with nuts.",
+        "Ingredients": ["Rice", "Sugar", "Cardamom", "Saffron", "Ghee", "Almonds", "Pistachios", "Raisins"],
+        "instructions": "In a pot, soak basmati rice for 30 minutes and then drain. In a separate pan, heat ghee and fry cashews, almonds, and raisins until golden, then set them aside. In the same pan, add water, sugar, and a few crushed cardamom pods, and bring to a boil. Add the soaked rice and cook on low heat until the rice is fully cooked and the water is absorbed. Once the rice is cooked, add the fried nuts, a pinch of saffron soaked in warm milk, and rose water or kewra essence for fragrance. Mix gently, cover, and let it simmer for 5-10 minutes. Serve hot, garnished with extra nuts and raisins.",
+        "cookingTime": 40,
+        "category": "Dessert",
+        "image": "https://i.ibb.co.com/4KT1kN3/download-1.jpg",
+        "createdBy": "Chef Maryam"
+    },
+    {
+        "name": "Sri Lankan Fish Curry",
+        "description": "A spicy and aromatic fish curry cooked with coconut milk and local spices.",
+        "Ingredients": ["Fish", "Coconut milk", "Onion", "Garlic", "Ginger", "Tamarind", "Curry leaves", "Turmeric", "Red chili powder", "Cinnamon", "Salt"],
+        "instructions": "Heat coconut oil in a pan, add mustard seeds, curry leaves, and a few dried red chilies, and sauté for a minute until fragrant. Add finely chopped onions, ginger-garlic paste, and green chilies, and cook until the onions are soft and golden. Stir in chopped tomatoes, turmeric, red chili powder, coriander powder, and salt, and cook until the tomatoes break down. Add coconut milk and water to create a thick gravy. Gently add fish (usually firm white fish like kingfish or tilapia), and simmer on low heat until the fish is cooked through. Garnish with fresh coriander and serve hot with rice or roti.",
+        "cookingTime": 40,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/N7yhrs8/images-11.jpg",
+        "createdBy": "Chef Malini"
+    },
+    {
+        "name": "Kottu Roti",
+        "description": "A popular street food made with chopped flatbread, vegetables, and meat.",
+        "Ingredients": ["Roti", "Chicken or beef", "Eggs", "Carrots", "Cabbage", "Onion", "Green chilies", "Soy sauce", "Curry powder", "Salt"],
+        "instructions": "Heat oil in a large pan or griddle, add finely chopped onions, green chilies, and curry leaves, and sauté until golden brown. Add chopped vegetables like carrots, cabbage, and bell peppers, and cook until tender. Stir in cooked chicken, beef, or mutton (optional) and cook for a few minutes. Add soy sauce, salt, and pepper, and mix well. Tear leftover roti (flatbread) into small pieces and add it to the pan, stirring to combine with the vegetables and meat. Cook everything together, stirring constantly, until the roti pieces are well-coated and slightly crispy. Garnish with fresh coriander and serve hot with a side of chili sauce or raita.",
+        "cookingTime": 30,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/WBggXwP/images-10.jpg",
+        "createdBy": "Chef Dinesh"
+    },
+    {
+        "name": "Hoppers (Appam)",
+        "description": "A traditional Sri Lankan pancake made with fermented rice flour and coconut milk.",
+        "Ingredients": ["Rice flour", "Coconut milk", "Sugar", "Yeast", "Salt", "Eggs (optional)"],
+        "instructions": "To make hoppers (appam), prepare the batter by mixing rice flour, all-purpose flour, sugar, salt, and active dry yeast with warm water. Let the batter sit in a warm place for about 3-4 hours to ferment. Once fermented, mix the batter gently. Heat an appam pan (or a small non-stick wok), grease it with a little oil, and pour a ladle of the batter into the center of the pan. Swirl the pan to spread the batter along the edges, leaving the center thicker. Cover and cook on medium heat for 2-3 minutes until the edges are crispy and the center is soft and spongy. Serve hot with curry, coconut milk, or sugar, depending on your preference.",
+        "cookingTime": 20,
+        "category": "Breakfast",
+        "image": "https://i.ibb.co.com/mC08zBR/images-9.jpg",
+        "createdBy": "Chef Tharini"
+    },
+    {
+        "name": "Pol Sambol",
+        "description": "A fresh and spicy coconut relish made with grated coconut, chili, and lime.",
+        "Ingredients": ["Grated coconut", "Red chili powder", "Onion", "Green chilies", "Lime juice", "Salt"],
+        "instructions": "To make pol sambol, grate fresh coconut and place it in a bowl. Add finely chopped onions, green chilies, and a small amount of dried red chilies (optional). Season with salt, and add a squeeze of lime juice for tanginess. Add a pinch of chili powder and mix everything well, adjusting the spices and salt to taste. For extra flavor, you can also add a little sugar or roasted curry powder. Mix thoroughly and serve as a side dish with rice, hoppers, or other Sri Lankan meals.",
+        "cookingTime": 10,
+        "category": "Side Dish",
+        "image": "https://i.ibb.co.com/1XxsdR3/img86979-whqc-768x512q80.jpg",
+        "createdBy": "Chef Priya"
+    },
+    {
+        "name": "Sri Lankan Dhal Curry",
+        "description": "A creamy and comforting lentil curry cooked with coconut milk and tempered spices.",
+        "Ingredients": ["Red lentils", "Coconut milk", "Onion", "Garlic", "Curry leaves", "Turmeric", "Mustard seeds", "Green chilies", "Salt"],
+        "instructions": "Rinse lentils (dhal) thoroughly and cook them in a pot with water, turmeric, and salt until they are soft and mushy. In a separate pan, heat coconut oil and sauté mustard seeds, curry leaves, and dried red chilies for a minute. Add chopped onions, garlic, ginger, and green chilies, and cook until the onions are golden brown. Stir in chopped tomatoes, cumin powder, coriander powder, and chili powder, and cook until the tomatoes soften. Add the cooked lentils to the spice mixture, and simmer for 10-15 minutes to blend the flavors. Adjust the consistency with water if needed. Finish with a drizzle of coconut milk for richness and garnish with fresh coriander. Serve hot with rice or roti.",
+        "cookingTime": 30,
+        "category": "Side Dish",
+        "image": "https://i.ibb.co.com/9ZWyCn8/unnamed.jpg" ,
+        "createdBy": "Chef Suresh"
+    },
+    {
+        "name": "Ambul Thiyal (Sour Fish Curry)",
+        "description": "A tangy and spicy fish curry made with goraka and traditional spices.",
+        "Ingredients": ["Fish", "Goraka (or tamarind)", "Black pepper", "Turmeric", "Garlic", "Ginger", "Curry leaves", "Salt"],
+        "instructions": "Cut firm fish (like tuna) into chunks and marinate with turmeric, salt, and a bit of black pepper. In a pan, layer the fish pieces with crushed garlic, curry leaves, pandan leaves, and slit green chilies. Add a mixture of tamarind paste (or goraka), chili powder, and water to create a tangy base. Sprinkle roasted curry powder and a pinch of salt over the fish. Cover and cook on low heat without stirring until the fish is tender and the sauce thickens, allowing the flavors to infuse. Serve hot with steamed rice for an authentic Sri Lankan meal.",
+        "cookingTime": 45,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/rH2sSRx/LK94007682-04-E.jpg" ,
+        "createdBy": "Chef Kamal"
+    },
+    {
+        "name": "Lamprais",
+        "description": "A flavorful Dutch-influenced dish of rice and meat wrapped in a banana leaf and baked.",
+        "Ingredients": ["Rice", "Chicken or beef curry", "Fried eggplant", "Frikkadels (meatballs)", "Banana leaf", "Curry spices", "Salt"],
+        "instructions": "Lamprais is a traditional Sri Lankan dish made by wrapping flavored rice and accompaniments in a banana leaf and baking it. Here's a simplified method: Cook short-grain rice with coconut milk, pandan leaves, and a pinch of salt until fluffy. Prepare a rich meat curry using chicken, beef, or pork, cooked with Sri Lankan curry powder, cinnamon, cardamom, cloves, and chili powder. Make frikkadels (Dutch meatballs) by mixing minced meat with breadcrumbs, egg, onions, and spices, shaping into small balls, and frying until golden. Prepare accompaniments like blachan (shrimp paste), seeni sambol (caramelized onion relish), and brinjal moju (eggplant pickle).To assemble, take a banana leaf, place a portion of rice in the center, and arrange the curry, frikkadels, and accompaniments around it. Wrap tightly, secure with string, and bake the package at 180°C (350°F) for about 20 minutes to meld the flavors. Serve warm.",
+        "cookingTime": 90,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/5Fp3JWr/IMG-20170809-183207-716.jpg" ,
+        "createdBy": "Chef Anjali"
+    },
+    {
+        "name": "Watalappan",
+        "description": "A creamy Sri Lankan dessert made with coconut milk, jaggery, and cardamom.",
+        "Ingredients": ["Coconut milk", "Jaggery", "Eggs", "Cardamom", "Nutmeg", "Cashews"],
+        "instructions": "In a bowl, whisk together coconut milk, jaggery (grated or melted), and eggs until smooth and well-combined. Add cardamom powder, a pinch of nutmeg, and a splash of vanilla essence for flavor. Strain the mixture to remove any lumps. Pour the mixture into a heatproof dish and cover it with foil. Steam the dish in a steamer or a large pot with boiling water for about 30-40 minutes, or until the custard is set. Let it cool, then refrigerate for a few hours. Serve chilled, garnished with roasted cashews.",
+        "cookingTime": 60,
+        "category": "Dessert",
+        "image": "https://i.ibb.co.com/TWkrFLM/watalappan.jpg" ,
+        "createdBy": "Chef Dilini"
+    },
+    {
+        "name": "Sri Lankan Chicken Curry",
+        "description": "A rich and flavorful chicken curry with coconut milk and aromatic spices.",
+        "Ingredients": ["Chicken", "Coconut milk", "Onion", "Garlic", "Ginger", "Curry leaves", "Cinnamon", "Turmeric", "Chili powder", "Salt"],
+        "instructions": "To make Sri Lankan Chicken Curry, marinate chicken pieces with turmeric, salt, chili powder, and lime juice, and let it rest for 30 minutes. Heat oil in a pan, add mustard seeds, curry leaves, and cinnamon, and sauté until fragrant. Add sliced onions, green chilies, and ginger-garlic paste, and cook until the onions are golden. Stir in chopped tomatoes, curry powder, roasted fennel powder, and coriander powder, and cook until the oil separates. Add the marinated chicken and cook until lightly browned. Pour in coconut milk and water, cover, and simmer on low heat until the chicken is tender and the curry thickens. Garnish with fresh coriander and serve hot with rice or roti.",
+        "cookingTime": 50,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/nksWqVJ/Srilankan-Chicken-Curry-Post-5.jpg",
+        "createdBy": "Chef Arjuna"
+    },
+    {
+        "name": "Kiribath (Milk Rice)",
+        "description": "A traditional Sri Lankan dish of rice cooked with coconut milk, served for special occasions.",
+        "Ingredients": ["Rice", "Coconut milk", "Salt"],
+        "instructions": "To make Kiribath (Milk Rice), rinse short-grain rice thoroughly and cook it in water with a pinch of salt until the water is absorbed and the rice is soft. Add thick coconut milk to the pot, stir gently to combine, and cook on low heat until the rice absorbs the coconut milk and becomes creamy. Once done, transfer the rice to a flat dish, press it down evenly, and let it cool slightly. Cut into diamond or square shapes and serve warm or at room temperature, often accompanied by lunu miris (spicy onion relish) or jaggery for sweetness.",
+        "cookingTime": 30,
+        "category": "Breakfast",
+        "image": "https://i.ibb.co.com/Sc4P7XD/Kiri-Bath-6-of-6.jpg",
+        "createdBy": "Chef Nishan"
+    },
+    {
+        "name": "Tacos al Pastor",
+        "description": "A traditional Mexican dish featuring marinated pork served on corn tortillas with pineapple and onion.",
+        "Ingredients": ["Pork", "Pineapple", "Corn tortillas", "Onion", "Cilantro", "Garlic", "Guajillo chili", "Cumin", "Vinegar", "Salt"],
+        "instructions": "To make Tacos al Pastor, marinate thinly sliced pork in a mixture of achiote paste, orange juice, pineapple juice, vinegar, garlic, chili powder, cumin, oregano, and salt. Let it marinate for at least 2 hours or overnight. Cook the pork on a grill or in a hot skillet until charred and tender. Warm small corn tortillas and fill them with the pork. Top with diced pineapple, chopped onions, fresh cilantro, and a squeeze of lime juice. Serve with salsa and enjoy!.",
+        "cookingTime": 60,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/0t73GCn/images-8.jpg",
+        "createdBy": "Chef Alejandro"
+    },
+    {
+        "name": "Guacamole",
+        "description": "A creamy avocado dip mixed with lime, onion, and cilantro.",
+        "Ingredients": ["Avocado", "Lime juice", "Onion", "Tomato", "Cilantro", "Salt", "Jalapeño"],
+        "instructions": "To make guacamole, mash ripe avocados in a bowl with a fork, leaving it as smooth or chunky as you prefer. Mix in finely chopped onions, diced tomatoes, minced garlic, and chopped fresh cilantro. Add a squeeze of lime juice, salt, and a pinch of cumin (optional) to enhance the flavors. Stir everything gently to combine. Adjust seasoning to taste and serve immediately with tortilla chips, tacos, or as a topping for your favorite dishes.",
+        "cookingTime": 10,
+        "category": "Appetizer",
+        "image": "https://i.ibb.co.com/z4YxL8S/AR-14231-guacamole-4x3-f7a3b5752c7f4f3fb934d03a8b548826.jpg",
+        "createdBy": "Chef Marisol"
+    },
+    {
+        "name": "Enchiladas",
+        "description": "Corn tortillas filled with meat or cheese, topped with a chili sauce and melted cheese.",
+        "Ingredients": ["Corn tortillas", "Chicken or beef", "Cheese", "Enchilada sauce", "Onion", "Cilantro"],
+        "instructions": "To make Enchiladas, prepare the filling by cooking shredded chicken, beef, or beans with sautéed onions, garlic, and spices like cumin, chili powder, and paprika. Warm corn tortillas to make them pliable, then fill each with the prepared filling and a sprinkle of cheese. Roll the tortillas tightly and place them seam-side down in a baking dish. Pour red or green enchilada sauce generously over the rolls, sprinkle with more cheese, and bake in a preheated oven at 375°F (190°C) for 20-25 minutes, or until the cheese is bubbly and golden. Garnish with fresh cilantro, sour cream, and sliced jalapeños, and serve hot.",
+        "cookingTime": 40,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/vD5Z2Dg/images-7.jpg",
+        "createdBy": "Chef Guadalupe"
+    },
+    {
+        "name": "Chiles Rellenos",
+        "description": "Poblano peppers stuffed with cheese or meat, battered, and fried.",
+        "Ingredients": ["Poblano peppers", "Cheese or ground meat", "Eggs", "Flour", "Tomato sauce", "Salt"],
+        "instructions": "To make Chiles Rellenos, roast large poblano peppers over an open flame or in the oven until their skin blisters. Place them in a covered bowl to steam, then peel off the skins gently. Make a small slit in each pepper and remove the seeds, being careful to keep the pepper intact. Stuff the peppers with cheese (like Oaxaca or mozzarella) or a mixture of cooked ground meat and vegetables. In a bowl, whip egg whites until stiff peaks form, then gently fold in beaten yolks to make a fluffy batter. Dip the stuffed peppers into flour, coat them in the egg batter, and fry in hot oil until golden and crispy. Serve hot with tomato sauce or salsa.",
+        "cookingTime": 50,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/KzpT5L5/opt-aboutcom-coeus-resources-content-migration-serious-eats-seriouseats-com-recipes-20160422-chiles.jpg",
+        "createdBy": "Chef Esteban"
+    },
+    {
+        "name": "Pozole",
+        "description": "A hearty soup made with hominy, pork, and a flavorful red chili broth.",
+        "Ingredients": ["Pork", "Hominy", "Red chili paste", "Garlic", "Onion", "Cabbage", "Radish", "Lime"],
+        "instructions": "To make Pozole, start by boiling pork (or chicken) with onion, garlic, and salt in a large pot until tender. Skim off any foam or impurities that rise to the surface. Remove the meat, shred it, and set it aside. To the broth, add hominy (pre-cooked corn kernels) and simmer. Blend rehydrated dried chilies (like guajillo, ancho, or pasilla) with garlic, onion, and a little water to make a smooth paste, then strain and add it to the pot for a rich, flavorful broth. Let it simmer to meld the flavors. Serve hot in bowls, garnished with shredded lettuce or cabbage, radishes, chopped onions, lime wedges, and a sprinkle of dried oregano. Serve with tostadas or warm tortillas on the side.",
+        "cookingTime": 120,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/SRthM30/images-6.jpg",
+        "createdBy": "Chef Ignacio"
+    },
+    {
+        "name": "Churros",
+        "description": "A crispy fried dough pastry coated in cinnamon sugar, served as a dessert or snack.",
+        "Ingredients": ["Flour", "Water", "Butter", "Sugar", "Cinnamon", "Vegetable oil"],
+        "instructions": "To make churros, combine water, sugar, salt, and butter in a pot and bring it to a boil. Once the butter melts, stir in flour and cook the mixture until it forms a dough and pulls away from the sides of the pan. Remove from heat and let it cool slightly before adding eggs, one at a time, mixing well after each addition. Transfer the dough to a piping bag fitted with a star tip. Heat oil in a deep pan and pipe 4-6 inch strips of dough directly into the hot oil, frying until golden and crispy. Remove from oil and drain on paper towels. Roll the churros in a mixture of cinnamon and sugar while still warm. Serve hot with chocolate sauce for dipping.",
+        "cookingTime": 30,
+        "category": "Dessert",
+        "image": "https://i.ibb.co.com/kDmkQJD/Churros-9.webp",
+        "createdBy": "Chef Rosa"
+    },
+    {
+        "name": "Mole Poblano",
+        "description": "A rich and complex sauce made with chocolate, chili peppers, and spices, served over chicken or turkey.",
+        "Ingredients": ["Chicken", "Chocolate", "Chili peppers", "Tomatoes", "Onion", "Garlic", "Cinnamon", "Cloves", "Almonds"],
+        "instructions": "To make Mole Poblano, start by toasting dried chilies (like ancho, pasilla, guajillo) in a dry skillet until fragrant. Remove the stems and seeds, then soak the chilies in warm water for about 20 minutes until soft. In a separate pan, toast sesame seeds, almonds, and pumpkin seeds until golden, then set aside. Sauté onions, garlic, and tomatoes in a bit of oil until softened. Blend the soaked chilies, toasted seeds, spices (like cinnamon, cloves, cumin), and a bit of chocolate or cocoa powder with water or broth into a smooth paste. In a large pot, cook the paste with more oil, adding chicken broth, and simmer until the sauce thickens and the flavors meld together. Add cooked chicken (or turkey) to the sauce, and simmer until the chicken is fully coated and tender. Serve with rice and garnish with sesame seeds.",
+        "cookingTime": 90,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/k0TgR7F/opt-aboutcom-coeus-resources-content-migration-serious-eats-seriouseats-com-recipes-images-2012-10-2.jpg",
+        "createdBy": "Chef Dolores"
+    },
+    {
+        "name": "Elote (Mexican Street Corn)",
+        "description": "Grilled corn on the cob coated with mayonnaise, cheese, and chili powder.",
+        "Ingredients": ["Corn on the cob", "Mayonnaise", "Cotija cheese", "Chili powder", "Lime"],
+        "instructions": "To make Elote (Mexican Street Corn), start by grilling or boiling corn on the cob until fully cooked. While the corn is cooking, mix together mayonnaise, sour cream, lime juice, chili powder, and a pinch of salt in a bowl. Once the corn is done, brush the corn with the mayonnaise mixture, coating it evenly. Sprinkle with cotija cheese or feta, and then garnish with extra chili powder and fresh cilantro. Squeeze lime juice over the top and serve immediately, enjoying the creamy, tangy, and spicy flavors of this delicious street food!",
+        "cookingTime": 20,
+        "category": "Snack",
+        "image": "https://i.ibb.co.com/qgDH3Jk/20210630-elotes-melissa-hom-seriouseats-5-895932860b0d4f88b1b330e574036305.jpg",
+        "createdBy": "Chef Javier"
+    },
+    {
+        "name": "Tamales",
+        "description": "Steamed corn dough filled with meat, cheese, or vegetables, wrapped in corn husks.",
+        "Ingredients": ["Corn masa", "Meat filling", "Corn husks", "Lard", "Chili sauce"],
+        "instructions": "To make tamales, begin by preparing the masa dough. Mix masa harina (corn flour), baking powder, salt, and softened lard or vegetable shortening in a bowl. Gradually add chicken or vegetable broth and mix until the dough is smooth and pliable. For the filling, cook your choice of meat (chicken, pork, or beef) with onions, garlic, chili powder, cumin, and other spices, then shred it.Soak corn husks in warm water until soft. Take a corn husk, spread a thin layer of masa dough in the center, add a spoonful of the filling, and fold the sides of the husk over the masa. Then fold the bottom of the husk up to secure the tamale.Steam the tamales in a large pot with a steamer basket for about 1-1.5 hours, ensuring the water doesn't touch the tamales. Check occasionally to make sure they cook evenly. Once done, serve them hot with salsa or crema.",
+        "cookingTime": 120,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/MktjKs5/pork-tamales-recipe.jpg",
+        "createdBy": "Chef Mariana"
+    },
+    {
+        "name": "Sopa de Tortilla",
+        "description": "A comforting tomato-based soup served with crispy tortilla strips and avocado.",
+        "Ingredients": ["Tomatoes", "Onion", "Garlic", "Tortilla strips", "Avocado", "Cheese", "Cilantro", "Chicken broth"],
+        "instructions": "To make Sopa de Tortilla (Tortilla Soup), begin by heating oil in a large pot. Cut corn tortillas into strips and fry them in the oil until crispy. Remove and set aside. In the same pot, sauté chopped onions, garlic, and green chilies until soft. Add diced tomatoes, cumin, chili powder, and a pinch of oregano, and cook for a few minutes to blend the flavors. Pour in chicken or vegetable broth and bring to a simmer. Add the fried tortilla strips to the soup and let it cook for 10-15 minutes, allowing the tortillas to soften and thicken the broth. Before serving, stir in a squeeze of lime juice and garnish with fresh cilantro, avocado, cheese, and a dollop of sour cream. Enjoy with extra crispy tortilla strips on top!",
+        "cookingTime": 40,
+        "category": "Soup",
+        "image": "https://i.ibb.co.com/NYCnW2r/images-5.jpg",
+        "createdBy": "Chef Sofia"
+    },
+    {
+        "name": "Margherita Pizza",
+        "description": "A classic Neapolitan pizza topped with fresh mozzarella, tomato sauce, and basil.",
+        "Ingredients": ["Pizza dough", "Tomato sauce", "Mozzarella cheese", "Fresh basil", "Olive oil", "Salt"],
+        "instructions": "To make a Margherita Pizza, start by preparing or buying pizza dough. Roll out the dough onto a baking sheet or pizza stone, forming a thin crust. Preheat your oven to 475°F (245°C). Spread a thin layer of tomato sauce over the dough, leaving a small border around the edges. Top with fresh mozzarella cheese slices, ensuring even coverage. Sprinkle with fresh basil leaves, a drizzle of olive oil, and a pinch of salt.Bake the pizza in the preheated oven for about 10-12 minutes, or until the crust is golden and the cheese is bubbling and slightly browned. Once out of the oven, add a few more fresh basil leaves for garnish and serve immediately. Enjoy the simplicity of this classic Italian pizza!",
+        "cookingTime": 30,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/c1Kx7d9/20220211142645-margherita-9920.webp",
+        "createdBy": "Chef Giovanni"
+    },
+    {
+        "name": "Spaghetti Carbonara",
+        "description": "A creamy pasta dish made with eggs, cheese, pancetta, and black pepper.",
+        "Ingredients": ["Spaghetti", "Eggs", "Pancetta", "Parmesan cheese", "Black pepper", "Salt"],
+        "instructions": "To make Spaghetti Carbonara, cook spaghetti in salted boiling water according to package instructions until al dente. While the pasta cooks, heat a little olive oil in a pan and sauté pancetta or guanciale (Italian cured pork) until crispy. In a separate bowl, whisk together eggs, grated Parmesan cheese, and black pepper until smooth and creamy. Once the pasta is done, reserve a cup of pasta water and drain the rest. Quickly toss the hot pasta in the pan with the pancetta, then remove from heat. Immediately add the egg mixture to the pasta, tossing quickly to create a creamy sauce. If the sauce is too thick, add a little reserved pasta water until you reach the desired consistency. Serve immediately with extra Parmesan and black pepper on top. Enjoy!",
+        "cookingTime": 25,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/bv73kVv/images-4.jpg",
+        "createdBy": "Chef Luigi"
+    },
+    {
+        "name": "Risotto alla Milanese",
+        "description": "A creamy rice dish flavored with saffron and Parmesan cheese.",
+        "Ingredients": ["Arborio rice", "Onion", "White wine", "Chicken stock", "Saffron", "Butter", "Parmesan cheese"],
+        "instructions": "To make Risotto alla Milanese, heat a bit of butter and olive oil in a large pan over medium heat. Add finely chopped onions and sauté until soft and translucent. Stir in the rice (preferably Arborio rice) and toast it for a minute or two until the grains are lightly coated in the butter and oil. Gradually add warm chicken or vegetable broth, one ladle at a time, stirring constantly and allowing the liquid to be absorbed before adding more. In a separate pan, heat a small amount of broth with saffron threads, allowing the saffron to infuse and release its color. Once the rice is al dente and creamy (about 18-20 minutes), stir in the saffron-infused broth for a rich golden color and distinctive flavor. Finish with a generous amount of grated Parmesan cheese and a tablespoon of butter for richness. Serve hot, garnished with additional Parmesan if desired. Enjoy!.",
+        "cookingTime": 40,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/G5ysTW3/images-3.jpg",
+        "createdBy": "Chef Marco"
+    },
+    {
+        "name": "Tiramisu",
+        "description": "A classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cream.",
+        "Ingredients": ["Ladyfingers", "Mascarpone cheese", "Coffee", "Cocoa powder", "Eggs", "Sugar"],
+        "instructions": "To make Tiramisu, start by mixing egg yolks and sugar in a bowl until smooth. Add mascarpone cheese and whisk until combined. In a separate bowl, whip heavy cream until stiff peaks form, then gently fold it into the mascarpone mixture. In another shallow dish, combine strong coffee (or espresso) with a splash of coffee liqueur (optional). Quickly dip ladyfingers into the coffee mixture, making sure not to soak them, and layer them in the bottom of a dish. Spread half of the mascarpone mixture on top of the soaked ladyfingers. Repeat with another layer of dipped ladyfingers and the remaining mascarpone mixture. Cover and refrigerate for at least 4 hours, or overnight, to allow the flavors to meld. Before serving, dust the top with unsweetened cocoa powder and garnish with shaved chocolate or chocolate curls if desired. Enjoy!",
+        "cookingTime": 30,
+        "category": "Dessert",
+        "image": "https://i.ibb.co.com/rZ7Bynh/images-2.jpg",
+        "createdBy": "Chef Francesca"
+    },
+    {
+        "name": "Lasagna",
+        "description": "A baked pasta dish layered with meat sauce, béchamel, and cheese.",
+        "Ingredients": ["Lasagna sheets", "Ground beef", "Tomato sauce", "Béchamel sauce", "Mozzarella cheese", "Parmesan cheese"],
+        "instructions": "To make lasagna, start by cooking lasagna noodles according to package instructions, then drain and set aside. In a large pan, cook ground beef or pork with chopped onions, garlic, and a pinch of salt until the meat is browned. Add a can of crushed tomatoes, tomato paste, and herbs like basil, oregano, and thyme. Simmer the sauce for about 20 minutes, letting the flavors blend. In a separate bowl, mix ricotta cheese with an egg, a handful of grated Parmesan, salt, and pepper. In a large baking dish, spread a thin layer of marinara sauce, then layer noodles, followed by a layer of ricotta mixture, a layer of mozzarella cheese, and a bit of marinara sauce. Repeat the layers until all ingredients are used, finishing with a layer of mozzarella and Parmesan cheese on top. Cover with aluminum foil and bake at 375°F (190°C) for about 25 minutes. Remove the foil and bake for an additional 15-20 minutes until the top is golden and bubbly. Let it rest for 10 minutes before serving. Enjoy!.",
+        "cookingTime": 60,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/71HP6cV/RS-Lasagna-hkjl-three-By-Two-Medium-At2-X.jpg",
+        "createdBy": "Chef Valentina"
+    },
+    {
+        "name": "Caprese Salad",
+        "description": "A simple salad of fresh mozzarella, tomatoes, and basil, drizzled with olive oil.",
+        "Ingredients": ["Tomatoes", "Fresh mozzarella", "Basil", "Olive oil", "Salt", "Black pepper"],
+        "instructions": "To make Caprese Salad, arrange slices of ripe tomatoes and fresh mozzarella cheese on a plate, alternating between them. Tuck fresh basil leaves between the slices. Drizzle with extra virgin olive oil and balsamic glaze, and season with salt and freshly ground black pepper to taste. For added flavor, you can sprinkle some sea salt and a little lemon zest. Serve immediately as a fresh and simple appetizer or side dish, showcasing the vibrant flavors of Italy.",
+        "cookingTime": 10,
+        "category": "Appetizer",
+        "image": "https://i.ibb.co.com/Csnj5FS/Easy-Pesto-Caprese-Salad-10.jpg",
+        "createdBy": "Chef Elena"
+    },
+    {
+        "name": "Fettuccine Alfredo",
+        "description": "A rich and creamy pasta dish made with butter, Parmesan cheese, and cream.",
+        "Ingredients": ["Fettuccine", "Butter", "Heavy cream", "Parmesan cheese", "Salt", "Black pepper"],
+        "instructions": "To make Fettuccine Alfredo, cook fettuccine pasta in salted boiling water until al dente, then drain, reserving some pasta water. In a large pan, melt butter and sauté minced garlic until fragrant, then add heavy cream and bring it to a simmer. Stir in grated Parmesan cheese, mixing until the sauce thickens and becomes creamy. Add the cooked fettuccine to the sauce, tossing it to coat evenly. If the sauce is too thick, add a bit of reserved pasta water to reach your desired consistency. Finish with salt, pepper, and extra Parmesan, then serve immediately for a rich, comforting dish..",
+        "cookingTime": 20,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/HzcsFnP/images-1.jpg",
+        "createdBy": "Chef Alfredo"
+    },
+    {
+        "name": "Osso Buco",
+        "description": "A slow-cooked veal shank dish served with a tomato-based sauce and gremolata.",
+        "Ingredients": ["Veal shanks", "Onion", "Carrot", "Celery", "Tomato paste", "White wine", "Chicken stock", "Gremolata"],
+        "instructions": "To make Osso Buco, season veal shanks with salt and pepper, then dredge them in flour. In a large pot, heat olive oil and brown the veal shanks on all sides. Remove the shanks and set aside. In the same pot, sauté onions, carrots, celery, and garlic until softened. Add white wine and cook for a few minutes to deglaze the pot. Stir in crushed tomatoes, chicken or vegetable broth, a bouquet garni (bay leaves, thyme, and rosemary), and a pinch of salt. Return the veal shanks to the pot, cover, and simmer for about 2-3 hours until the meat is tender and falls off the bone. Serve with gremolata (a mix of lemon zest, garlic, and parsley) for added freshness. Enjoy with risotto or polenta.",
+        "cookingTime": 120,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/mcLjBj1/classic-osso-buco-recipe-500x375.jpg",
+        "createdBy": "Chef Leonardo"
+    },
+    {
+        "name": "Bruschetta",
+        "description": "Grilled bread topped with a mixture of fresh tomatoes, basil, and olive oil.",
+        "Ingredients": ["Baguette", "Tomatoes", "Garlic", "Basil", "Olive oil", "Salt", "Black pepper"],
+        "instructions": "To make Bruschetta, start by toasting slices of rustic bread, either in the oven or on a grill, until golden and crispy. In a bowl, combine diced ripe tomatoes, finely chopped garlic, fresh basil, and a drizzle of extra virgin olive oil. Season with salt and pepper to taste. Once the bread is toasted, rub each slice with a cut garlic clove to add flavor. Spoon the tomato mixture generously over the toasted bread. Optionally, drizzle with a bit more olive oil and balsamic glaze for extra richness. Serve immediately as a fresh, flavorful appetizer.",
+        "cookingTime": 15,
+        "category": "Appetizer",
+        "image": "https://i.ibb.co.com/Lr37LtW/simply-oragnic-Roasted-Tomato-Bruschetta-1080x1080-thumbnail.jpg",
+        "createdBy": "Chef Chiara"
+    },
+    {
+        "name": "Panna Cotta",
+        "description": "A creamy Italian dessert made with sweetened cream and gelatin, served with fruit or syrup.",
+        "Ingredients": ["Heavy cream", "Sugar", "Vanilla extract", "Gelatin", "Berries", "Honey"],
+        "instructions": "To make Panna Cotta, begin by heating heavy cream, sugar, and vanilla extract in a saucepan over medium heat, stirring until the sugar dissolves and the cream is warm, but not boiling. Meanwhile, bloom gelatin by sprinkling it over a small amount of cold water and letting it sit for 5 minutes. Once the cream mixture is warm, remove it from heat and stir in the gelatin until fully dissolved. Pour the mixture into individual molds or glasses and refrigerate for at least 4 hours, or until set. Once ready to serve, top with fresh berries, fruit compote, or a drizzle of caramel or chocolate sauce. Enjoy this creamy, delicate Italian dessert!.",
+        "cookingTime": 20,
+        "category": "Dessert",
+        "image": "https://i.ibb.co.com/sKqxsWp/LH-Panna-Cotta-wczm-video-Sixteen-By-Nine-Jumbo1600.jpg",
+        "createdBy": "Chef Sofia"
+    },
+    {
+        "name": "Sushi",
+        "description": "A traditional Japanese dish of vinegared rice accompanied by raw fish or vegetables.",
+        "Ingredients": ["Sushi rice", "Rice vinegar", "Sugar", "Salt", "Nori sheets", "Raw fish", "Cucumber", "Avocado", "Soy sauce"],
+        "instructions": "To make sushi, start by preparing sushi rice. Rinse short-grain rice thoroughly until the water runs clear, then cook it with water according to the package instructions. Once the rice is cooked, mix rice vinegar, sugar, and salt, then stir it into the rice while it's still warm. Let the rice cool to room temperature. For the filling, slice fresh sushi-grade fish (such as tuna, salmon, or yellowtail) into thin slices. You can also use vegetables like cucumber, avocado, or pickled radish. Place a sheet of nori (seaweed) on a bamboo sushi mat, spread an even layer of rice over the nori, leaving a small border at the top. Add your desired filling in the center of the rice, then roll tightly using the sushi mat. Slice the roll into bite-sized pieces with a sharp knife. Serve with soy sauce, wasabi, and pickled ginger. Enjoy!",
+        "cookingTime": 45,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/ry9MJnF/how-to-make-makizushi-sushi-rolls-japanese-taste.webp",
+        "createdBy": "Chef Hiroshi"
+    },
+    {
+        "name": "Ramen",
+        "description": "A flavorful noodle soup with a rich broth, served with toppings like egg, pork, and green onions.",
+        "Ingredients": ["Ramen noodles", "Pork broth", "Soy sauce", "Miso paste", "Boiled eggs", "Chashu pork", "Green onions", "Nori"],
+        "instructions": "To make ramen, start by boiling a rich broth, typically made from chicken, pork, or miso, with garlic, ginger, onions, and soy sauce. While the broth simmers, cook fresh ramen noodles according to package instructions. Once the broth is ready, strain it and pour it into a bowl, adding a dash of soy sauce or mirin for extra depth of flavor. Place the cooked noodles in the bowl and top with your choice of toppings such as soft-boiled eggs, sliced pork (chashu), bamboo shoots, green onions, nori, and a drizzle of sesame oil. Serve hot for a comforting, flavorful dish.",
+        "cookingTime": 60,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/db2HqMp/kimchi-ramen-recipe-photo-tablefortwoblog-7-scaled.jpg",
+        "createdBy": "Chef Takashi"
+    },
+    {
+        "name": "Tempura",
+        "description": "Lightly battered and deep-fried seafood or vegetables, served with dipping sauce.",
+        "Ingredients": ["Shrimp", "Vegetables", "Flour", "Eggs", "Cold water", "Soy sauce", "Mirin"],
+        "instructions": "To make tempura, prepare a light batter by whisking together cold water, flour, and a pinch of baking powder or cornstarch until just combined (don't overmix). Heat oil in a deep pot or fryer to 350°F (175°C). For the filling, dip vegetables (like sweet potatoes, zucchini, and mushrooms) or shrimp into the batter, then carefully lower them into the hot oil. Fry in small batches, turning occasionally, until golden and crispy, which takes about 2-3 minutes. Remove from the oil and drain on paper towels. Serve the tempura immediately with a dipping sauce made from soy sauce, dashi, and a touch of mirin or rice vinegar. Enjoy the crispy and delicate texture!",
+        "cookingTime": 30,
+        "category": "Appetizer",
+        "image": "https://i.ibb.co.com/D1p0P0W/basic-tempura-for-fish-and-seafood-1300531-hero-01-bbd91b4ee23940749fec5ab7693eadcc.jpg",
+        "createdBy": "Chef Kenta"
+    },
+    {
+        "name": "Miso Soup",
+        "description": "A warm and comforting soup made with miso paste, tofu, and seaweed.",
+        "Ingredients": ["Dashi broth", "Miso paste", "Tofu", "Wakame seaweed", "Green onions"],
+        "instructions": "To make miso soup, start by bringing dashi (Japanese soup stock) to a simmer in a pot. If you don’t have dashi, you can use water and dissolve instant dashi powder. Once simmering, add a few tablespoons of miso paste (white or red) and stir until fully dissolved, adjusting the amount to taste. Add cubed tofu and sliced green onions, letting the soup simmer for a few more minutes. Optionally, add wakame seaweed for additional flavor and texture. Once everything is heated through, serve hot in small bowls, garnished with extra green onions or a sprinkle of sesame seeds, if desired. Enjoy this comforting, savory soup!",
+        "cookingTime": 15,
+        "category": "Soup",
+        "image": "https://i.ibb.co.com/f8BgP4C/Miso-Soup-RECIPE-012023-46093.webp",
+        "createdBy": "Chef Akiko"
+    },
+    {
+        "name": "Yakitori",
+        "description": "Grilled chicken skewers seasoned with a savory sauce or salt.",
+        "Ingredients": ["Chicken", "Soy sauce", "Mirin", "Sugar", "Garlic", "Skewers"],
+        "instructions": "To make yakitori, start by cutting chicken (typically thigh meat or breast) into bite-sized pieces and skewering them onto bamboo sticks. You can also use vegetables like bell peppers, onions, or shiitake mushrooms for variety. Prepare the tare sauce by simmering soy sauce, mirin, sake, and sugar until it thickens into a glossy glaze. Preheat a grill or grill pan and cook the skewers over medium-high heat, brushing with the tare sauce as they cook. Turn the skewers occasionally to ensure they are evenly cooked and caramelized. Once done, serve immediately, garnished with sesame seeds or chopped green onions, and enjoy with a side of rice or pickled vegetables.",
+        "cookingTime": 25,
+        "category": "Snack",
+        "image": "https://i.ibb.co.com/WfCjs4J/spark-grill-yakitori-05.jpg",
+        "createdBy": "Chef Daisuke"
+    },
+    {
+        "name": "Okonomiyaki",
+        "description": "A savory Japanese pancake filled with cabbage and topped with sauces.",
+        "Ingredients": ["Flour", "Cabbage", "Eggs", "Pork belly", "Okonomiyaki sauce", "Mayonnaise", "Bonito flakes"],
+        "instructions": "To make Okonomiyaki, start by preparing the batter. In a bowl, mix flour, water, eggs, and a pinch of salt to form a smooth batter. Add finely shredded cabbage, chopped green onions, and any optional fillings like cooked shrimp, pork belly, or bacon. Mix gently to combine. Heat a griddle or large frying pan with a little oil and pour the batter into a round pancake shape. Cook on medium heat for about 3-4 minutes on each side, until golden and cooked through. Once cooked, top with mayonnaise, okonomiyaki sauce (a sweet, savory sauce), bonito flakes, and aonori (dried seaweed). Serve hot and enjoy this savory Japanese pancake!",
+        "cookingTime": 35,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/cwRYDjn/08-EATrex-Okonomiyaki-wjth-medium-Square-At3-X.jpg",
+        "createdBy": "Chef Yuki"
+    },
+    {
+        "name": "Onigiri",
+        "description": "Rice balls filled with various ingredients and wrapped in nori.",
+        "Ingredients": ["Cooked rice", "Salt", "Nori sheets", "Tuna", "Pickled plum", "Salmon"],
+        "instructions": "To make onigiri (Japanese rice balls), start by cooking short-grain rice and letting it cool slightly until it’s still warm but manageable. Wet your hands with water and sprinkle a little salt on them to prevent the rice from sticking. Take a small portion of rice and shape it into a triangle or ball. You can insert a filling in the center, such as pickled plum (umeboshi), grilled salmon, or seasoned seaweed. Once the rice is shaped, wrap a strip of nori (seaweed) around the bottom or entire onigiri for added flavor and to hold the shape. Serve immediately or pack for a snack or lunch.",
+        "cookingTime": 20,
+        "category": "Snack",
+        "image": "https://i.ibb.co.com/fMJ45J5/onigiri-hero-1.jpg",
+        "createdBy": "Chef Mika"
+    },
+    {
+        "name": "Tonkatsu",
+        "description": "Crispy breaded and fried pork cutlets served with a tangy sauce.",
+        "Ingredients": ["Pork cutlets", "Flour", "Eggs", "Panko breadcrumbs", "Vegetable oil", "Tonkatsu sauce"],
+        "instructions": "To make Tonkatsu, start by seasoning pork loin or tenderloin with salt and pepper. Dredge each piece of meat in flour, dip it into beaten eggs, then coat it thoroughly with panko breadcrumbs. Heat vegetable oil in a deep pan to about 350°F (175°C). Fry the breaded pork until golden and crispy, about 4-5 minutes per side, depending on thickness. Remove from oil and drain on paper towels. Slice the tonkatsu into strips and serve with shredded cabbage, a drizzle of tonkatsu sauce (a sweet, savory sauce), and steamed rice on the side. Enjoy the crispy and tender pork cutlet!",
+        "cookingTime": 30,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/jbm6FVS/images.jpg",
+        "createdBy": "Chef Satoshi"
+    },
+    {
+        "name": "Matcha Ice Cream",
+        "description": "A creamy dessert made with matcha green tea powder.",
+        "Ingredients": ["Milk", "Cream", "Sugar", "Matcha powder", "Egg yolks"],
+        "instructions": "To make Matcha Ice Cream, start by whisking matcha powder with a small amount of warm milk to create a smooth paste. In a separate bowl, whisk together heavy cream, whole milk, and sugar until the sugar is dissolved. Add the matcha paste to the cream mixture and stir until well combined. If desired, you can lightly heat the mixture over low heat to ensure everything blends well (but don't bring it to a boil). Once mixed, let the base cool to room temperature, then refrigerate it for at least 4 hours, or overnight.Pour the chilled mixture into an ice cream maker and churn according to the manufacturer’s instructions until it reaches a soft-serve consistency. Transfer the ice cream to a container and freeze for a few hours until firm. Scoop and serve this creamy, subtly bitter, and refreshing treat!",
+        "cookingTime": 240,
+        "category": "Dessert",
+        "image": "https://i.ibb.co.com/stbSqj9/Green-Tea-Ice-Cream-0099-I-1.jpg",
+        "createdBy": "Chef Haruka"
+    },
+    {
+        "name": "Gyoza",
+        "description": "Pan-fried dumplings filled with pork and cabbage, served with dipping sauce.",
+        "Ingredients": ["Gyoza wrappers", "Ground pork", "Cabbage", "Garlic", "Ginger", "Soy sauce", "Sesame oil"],
+        "instructions": "To make Gyoza, start by preparing the filling. In a bowl, combine ground pork (or chicken), finely chopped cabbage, garlic, ginger, green onions, soy sauce, sesame oil, and a pinch of salt and pepper. Mix until everything is well combined. Place a gyoza wrapper on a flat surface and spoon a small amount of the filling into the center. Wet the edges of the wrapper with water, fold it in half to form a half-moon shape, and press to seal, pleating the edges if desired. Heat a little oil in a non-stick pan over medium-high heat. Place the gyoza in the pan, flat side down, and cook for 2-3 minutes until the bottoms are golden brown. Add a small amount of water (about 1/4 cup), then cover and steam the gyoza for another 4-5 minutes until fully cooked and the wrappers are translucent. Serve with a dipping sauce made from soy sauce, rice vinegar, and a touch of chili oil. Enjoy!",
+        "cookingTime": 35,
+        "category": "Appetizer",
+        "image": "https://i.ibb.co.com/KySB1nG/download.jpg",
+        "createdBy": "Chef Rina"
     }
-
 ]
+

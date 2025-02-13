@@ -3,10 +3,13 @@
     "profileAssociations": {
         "workspaces": {
             "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project": "__default__profile__",
-            "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/recipe_filter": "__default__profile__",
-            "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/Instant-Chef": "__default__profile__"
+            "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/Instant-Chef": "__default__profile__",
+            "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/recipe_filter": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1739151288355": "__default__profile__",
+            "1739151325796": "__default__profile__"
+        }
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
@@ -15,13 +18,20 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/recipe_filter"
+                "folderUri": "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/Instant-Chef"
             },
             {
-                "folderUri": "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/Instant-Chef"
+                "folderUri": "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/recipe_filter"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1739151288355"
+            },
+            {
+                "backupFolder": "1739151325796"
+            }
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -71,23 +81,23 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/Instant-Chef",
-                                        "path": "/mnt/hdd/HDD(lost+found)/instant_chef_project/Instant-Chef",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/mnt/hdd/HDD(lost+found)/instant_chef_project/Instant-Chef"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
                                         "external": "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/recipe_filter",
                                         "path": "/mnt/hdd/HDD(lost+found)/instant_chef_project/recipe_filter",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "/mnt/hdd/HDD(lost+found)/instant_chef_project/recipe_filter"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/Instant-Chef",
+                                        "path": "/mnt/hdd/HDD(lost+found)/instant_chef_project/Instant-Chef",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/hdd/HDD(lost+found)/instant_chef_project/Instant-Chef"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -813,7 +823,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "checked": true
                     }
                 ]
             },
@@ -830,8 +841,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1755,8 +1765,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/Instant-Chef",
-            "backupPath": "/mnt/hdd/HDD(lost+found)/instant_chef_project/recipe_filter/~/vscode-safe-mode/Backups/4073496a1ce7c31bb9a6ffbd57fb221c",
+            "folder": "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/recipe_filter",
+            "backupPath": "/mnt/hdd/HDD(lost+found)/instant_chef_project/recipe_filter/~/vscode-safe-mode/Backups/40b1ea0c11a82f5ac10f2857c66c6aab",
             "uiState": {
                 "mode": 0,
                 "x": 171,
