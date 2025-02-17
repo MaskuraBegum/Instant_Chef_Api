@@ -6,10 +6,7 @@
             "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/Instant-Chef": "__default__profile__",
             "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/recipe_filter": "__default__profile__"
         },
-        "emptyWindows": {
-            "1739151288355": "__default__profile__",
-            "1739151325796": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
@@ -18,20 +15,10 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/Instant-Chef"
-            },
-            {
                 "folderUri": "file:///mnt/hdd/HDD%28lost%2Bfound%29/instant_chef_project/recipe_filter"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1739151288355"
-            },
-            {
-                "backupFolder": "1739151325796"
-            }
-        ]
+        "emptyWindows": []
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -1770,9 +1757,9 @@
             "uiState": {
                 "mode": 0,
                 "x": 171,
-                "y": 69,
+                "y": 130,
                 "width": 1023,
-                "height": 767
+                "height": 515
             }
         },
         "openedWindows": []

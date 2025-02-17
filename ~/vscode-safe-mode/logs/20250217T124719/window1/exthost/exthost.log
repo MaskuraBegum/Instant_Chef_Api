@@ -1,0 +1,19 @@
+2025-02-17 12:47:23.664 [info] Extension host with pid 55383 started
+2025-02-17 12:47:23.664 [info] Skipping acquiring lock for /mnt/hdd/HDD(lost+found)/instant_chef_project/recipe_filter/~/vscode-safe-mode/User/workspaceStorage/a0d5a9bd783f66277f165b5fbefe1039.
+2025-02-17 12:47:24.138 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-02-17 12:47:24.267 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2025-02-17 12:47:25.331 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-02-17 12:47:25.341 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-02-17 12:47:25.437 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-02-17 12:47:25.534 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-02-17 12:47:25.942 [info] Eager extensions activated
+2025-02-17 12:47:26.170 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-02-17 12:47:26.207 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-02-17 12:47:28.873 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-02-17 14:16:57.674 [error] [vscode.typescript-language-features] provider FAILED
+2025-02-17 14:16:57.690 [error] Error: DisposableStore is missing...
+	at ve.l (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:107091)
+	at ve.resolveCompletionItem (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:106561)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-02-17 14:34:04.641 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-02-17 14:34:04.702 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
