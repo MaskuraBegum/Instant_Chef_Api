@@ -1,4 +1,5 @@
 const recipe = require("../models/recipeModel");
+const User = require("../models/userModel");
 const { checkAuth, checkAdmin } = require('../firebase/firebaseAuthMiddleware'); // Import middleware
 
 const getAllRecipes = async(req,res)=>{
@@ -126,12 +127,50 @@ const deleteRecipe = async (req, res) => {
   }
 };
 
+
+// Add Favorite Recipes
+const addFavorite = async (req, res) => {
+  try {
+    const { recipeId } = req.body;
+    const userId = req.user.id;  // Use the decoded user ID from the Firebase token
+
+    // Find user by ID
+    const user = await User.findById(userId);
+    if (!user) {
+      return res.status(404).json({ message: "User not found" });
+    }
+
+    // Find recipe by ID
+    const recipeExists = await recipe.findById(recipeId);
+    if (!recipeExists) {
+      return res.status(404).json({ message: "Recipe not found" });
+    }
+
+    // Check if the recipe is already in the user's favorites
+    const favoriteIndex = user.favorites.indexOf(recipeId);
+
+    if (favoriteIndex === -1) {
+      // If the recipe is not in the favorites list, add it
+      user.favorites.push(recipeId);
+      await user.save();
+      return res.status(200).json({ message: "Recipe added to favorites", favorites: user.favorites });
+    }
+    else {
+      return res.status(400).json({ message: "Recipe is already in favorites" });
+    }
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: "Server error", error });
+  }
+};
+
 module.exports = {
   getAllRecipes,
   getFilterRecicpes,
   getincludeRecicpes,
   addRecipe,
   updateRecipe,
-  deleteRecipe
+  deleteRecipe,
+  addFavorite
 };
 

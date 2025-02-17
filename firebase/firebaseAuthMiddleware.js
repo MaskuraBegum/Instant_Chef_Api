@@ -6,20 +6,25 @@ const checkAuth = (req, res, next) => {
   const authHeader = req.headers.authorization;
   const admin = require('./firebaseAdmin'); // Import initialized Firebase Admin SDK
 
+  console.log('Authorization Header:', authHeader);
+
   // Middleware to check if the user is authenticated
   const checkAuth = (req, res, next) => {
     const authHeader = req.headers.authorization;
   
     if (!authHeader || !authHeader.startsWith('Bearer ')) {
+      console.log('No Bearer token or invalid authorization header');
       return res.status(401).json({ message: 'Authorization header missing or invalid' });
     }
   
     const token = authHeader.split(' ')[1]; // Extract token from 'Bearer <token>'
+    console.log('Token received:', token);
   
     admin
       .auth()
       .verifyIdToken(token)
       .then((decodedToken) => {
+        console.log('Decoded Token:', decodedToken);
         req.user = decodedToken; // Attach the decoded token to the request object
         next();
       })
