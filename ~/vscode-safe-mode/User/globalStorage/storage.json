@@ -810,8 +810,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "checked": true
+                        "label": "&&Word Wrap"
                     }
                 ]
             },
@@ -1757,9 +1756,9 @@
             "uiState": {
                 "mode": 0,
                 "x": 171,
-                "y": 130,
+                "y": 167,
                 "width": 1023,
-                "height": 515
+                "height": 478
             }
         },
         "openedWindows": []
