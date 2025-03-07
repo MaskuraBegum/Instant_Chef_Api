@@ -26,7 +26,7 @@ router.post("/chat", async (req, res) => {
       - Do not provide any link
     `;
 
-    const model = genAI.getGenerativeModel({ model: "gemini-pro" });
+    const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
 
     const response = await model.generateContent([systemPrompt, message]);
     const text = response.response.text();

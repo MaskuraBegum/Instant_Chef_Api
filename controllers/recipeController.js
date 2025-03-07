@@ -162,18 +162,21 @@ const addFavorite = async (req, res) => {
       }
     }
 
-    // Check if the recipe is already in favorites
-    if (user.favorites.includes(recipeId)) {
-      return res.status(400).json({ message: "Recipe is already in favorites." });
-    }
+    // Use $addToSet to add the recipeId if it doesn't already exist in the favorites array
+    const updatedUser = await User.findOneAndUpdate(
+      { uid: userId }, // Find the user by UID
+      { $addToSet: { favorites: recipeId } }, // Add recipeId only if it's not already in favorites
+      { new: true } // Return the updated user
+    );
 
-    // Add recipe to favorites
-    user.favorites.push(recipeId);
-    await user.save();
+    // If the recipe is already in favorites, $addToSet won't add it again
+    if (!updatedUser) {
+      return res.status(400).json({ message: "Error updating user favorites." });
+    }
 
     return res.status(200).json({
       message: "Recipe added to favorites",
-      favorites: user.favorites,
+      favorites: updatedUser.favorites,
     });
 
   } catch (error) {
