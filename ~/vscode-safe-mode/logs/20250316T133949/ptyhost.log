@@ -1,0 +1,20 @@
+2025-03-16 13:39:52.863 [info] Revived process, old id a0d5a9bd783f66277f165b5fbefe1039-1 -> new id 1
+2025-03-16 13:39:52.863 [info] Revived process, old id a0d5a9bd783f66277f165b5fbefe1039-2 -> new id 2
+2025-03-16 13:39:52.863 [info] Revived process, old id a0d5a9bd783f66277f165b5fbefe1039-3 -> new id 3
+2025-03-16 13:39:52.863 [info] Revived process, old id a0d5a9bd783f66277f165b5fbefe1039-4 -> new id 4
+2025-03-16 13:39:53.251 [info] Expanding terminal instance, old id a0d5a9bd783f66277f165b5fbefe1039-1 -> new id 1
+2025-03-16 13:39:53.251 [info] Expanding terminal instance, old id a0d5a9bd783f66277f165b5fbefe1039-2 -> new id 2
+2025-03-16 13:39:53.251 [info] Expanding terminal instance, old id a0d5a9bd783f66277f165b5fbefe1039-3 -> new id 3
+2025-03-16 13:39:53.251 [info] Expanding terminal instance, old id a0d5a9bd783f66277f165b5fbefe1039-4 -> new id 4
+2025-03-16 13:39:54.211 [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+2025-03-16 13:39:54.211 [info] Persistent process reconnection "1"
+2025-03-16 13:39:54.216 [warning] Persistent process "2": Process had no disconnect runners but was an orphan
+2025-03-16 13:39:54.217 [info] Persistent process reconnection "2"
+2025-03-16 13:39:54.217 [warning] Persistent process "3": Process had no disconnect runners but was an orphan
+2025-03-16 13:39:54.217 [info] Persistent process reconnection "3"
+2025-03-16 13:39:54.217 [warning] Persistent process "4": Process had no disconnect runners but was an orphan
+2025-03-16 13:39:54.218 [info] Persistent process reconnection "4"
+2025-03-16 13:39:54.406 [info] Persistent process "1": Replaying 4937 chars and 1 size events
+2025-03-16 13:39:54.481 [info] Persistent process "2": Replaying 6664 chars and 1 size events
+2025-03-16 13:39:54.539 [info] Persistent process "3": Replaying 6641 chars and 1 size events
+2025-03-16 13:39:54.577 [info] Persistent process "4": Replaying 4334 chars and 1 size events

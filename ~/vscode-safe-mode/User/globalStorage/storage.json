@@ -827,8 +827,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1148,8 +1147,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1758,9 +1756,9 @@
             "uiState": {
                 "mode": 0,
                 "x": 171,
-                "y": 315,
+                "y": 352,
                 "width": 1023,
-                "height": 330
+                "height": 293
             }
         },
         "openedWindows": []

@@ -1,8 +1,0 @@
-2024-12-30 23:50:55.155 [info] update#setState idle
-2024-12-30 23:51:05.223 [info] Extension host with pid 13324 exited with code: 0, signal: unknown.
-2024-12-30 23:51:06.225 [error] Extension host with pid 13324 still exists, forcefully killing it...
-2024-12-30 23:51:25.159 [info] update#setState checking for updates
-2024-12-30 23:51:25.172 [info] update#setState available for download
-2024-12-30 23:52:17.195 [info] Extension host with pid 13622 exited with code: 0, signal: unknown.
-2024-12-30 23:52:24.604 [info] Extension host with pid 14146 exited with code: 0, signal: unknown.
-2024-12-31 00:19:17.119 [info] Extension host with pid 14192 exited with code: 0, signal: unknown.

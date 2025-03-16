@@ -1,0 +1,4 @@
+2025-03-16 13:39:50.165 [info] update#setState idle
+2025-03-16 13:40:04.000 [warning] [UtilityProcessWorker]: createWorker() found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2025-03-16 13:40:20.169 [info] update#setState checking for updates
+2025-03-16 13:40:20.175 [info] update#setState available for download
