@@ -1,0 +1,448 @@
+2025-03-07 21:22:58.247 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.256 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.256 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.257 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.257 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.257 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.258 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.258 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.258 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.268 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.268 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.268 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.269 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.269 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.271 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.272 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.282 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.2.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.282 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.283 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.283 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.283 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.378 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.379 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.380 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.382 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.384 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.389 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.391 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.393 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.395 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.398 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.400 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.404 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.406 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.407 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.407 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.407 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.408 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.410 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.2.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.412 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.412 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.415 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.628 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.631 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.632 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.632 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.635 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.638 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.645 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.650 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.654 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.654 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.655 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.660 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.662 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.673 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.674 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.676 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.677 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.680 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.2.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.693 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.695 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.699 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.779 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.781 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.783 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.785 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.787 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.789 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.791 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.792 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.794 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.796 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.796 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.797 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.799 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.803 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.805 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.807 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.808 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.2.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.808 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.809 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.810 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.814 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.857 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.858 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.860 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.860 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.863 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:58.864 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.865 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.866 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.871 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.871 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.872 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.872 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.877 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.879 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:58.884 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.891 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.892 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.893 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.897 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.897 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.2.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:58.898 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:59.781 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:59.796 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:59.803 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:59.804 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:59.809 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:59.813 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:59.815 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:59.817 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:59.821 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:59.822 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:59.825 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:59.825 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:59.826 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:59.828 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:59.831 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:59.833 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:59.833 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.2.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:59.834 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:59.834 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:59.839 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:59.842 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:59.911 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:59.913 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:59.913 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:59.914 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:59.914 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:59.916 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:59.919 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:59.924 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:59.925 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:59.938 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:59.940 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:59.960 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:59.977 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.2.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:22:59.986 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:59.986 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:59.986 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:22:59.988 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:22:59.988 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.007 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.007 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.018 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.367 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.368 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.369 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.370 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:00.372 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.373 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.375 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.377 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.379 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.380 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.381 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:00.382 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.383 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:00.384 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.386 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.387 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.388 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:00.388 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:00.390 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.2.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.391 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.393 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.676 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.677 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.679 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.680 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:00.682 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.684 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.685 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.687 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.689 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.691 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.691 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:00.693 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.695 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.696 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:00.697 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.699 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.2.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.700 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:00.700 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:00.703 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.704 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.706 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.923 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.925 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.929 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.933 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:00.933 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.934 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.936 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.938 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:00.945 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.949 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.956 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.957 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.957 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.958 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:00.959 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.960 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.962 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.2.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:00.964 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:00.966 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:00.969 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:00.970 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:01.312 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:01.316 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:01.318 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:01.319 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:01.319 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:01.321 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:01.323 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:01.326 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:01.327 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:01.331 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:01.332 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:01.334 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:01.336 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:01.341 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:01.344 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:01.345 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:01.347 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:01.349 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:01.353 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.2.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:01.354 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:01.356 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:02.186 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:02.190 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:02.191 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:02.193 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:02.195 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:02.196 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:02.198 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:02.200 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:02.204 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:02.205 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:02.205 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:02.207 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:02.208 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:02.211 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:02.213 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:02.215 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:02.223 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.2.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:02.224 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:02.224 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:02.226 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:02.230 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:02.856 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:02.859 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:02.863 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:02.864 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:02.866 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:02.869 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:02.870 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:02.871 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:02.873 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:02.876 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:02.883 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:02.886 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:02.888 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:02.889 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:02.893 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:02.903 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:02.906 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.2.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:02.910 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:02.922 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:02.923 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:02.924 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:03.666 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:03.667 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:03.667 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:03.670 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:03.671 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:03.672 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:03.673 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:03.674 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:03.675 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:03.675 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:03.676 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:03.678 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:03.679 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:03.680 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:03.682 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:03.684 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:03.696 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.2.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:03.697 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:03.702 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:03.707 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:03.708 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:03.923 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:03.925 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:03.928 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:03.929 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:03.931 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:03.931 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:03.932 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:03.934 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:03.936 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:03.938 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:03.939 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:03.942 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:03.942 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:03.944 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:03.947 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:03.953 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:03.954 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.2.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:03.954 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:03.956 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:03.959 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:03.959 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:04.061 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.062 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.065 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.069 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.070 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:04.070 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.071 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.072 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.075 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.076 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.079 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:04.080 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.082 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.084 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.085 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:04.085 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.087 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.2.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.088 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:04.089 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:04.090 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.092 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.534 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.536 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.538 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.541 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.545 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.547 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.549 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.550 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.551 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.552 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:04.556 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.557 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.560 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.560 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:04.562 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.563 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.2.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.565 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:04.565 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:04.566 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.567 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.570 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:04.958 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.959 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.960 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.961 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:04.962 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.963 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.965 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.966 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.967 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.969 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:04.970 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.972 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.973 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.974 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:04.975 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.976 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.977 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:04.977 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:04.979 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.2.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:04.980 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:04.981 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:05.009 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:05.010 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.10.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:05.011 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:05.013 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:05.014 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:05.014 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:05.016 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.2]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:05.017 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:05.019 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.11.3]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:05.019 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:05.020 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:05.022 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.12.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:05.023 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:05.024 [error] [/home/maskura/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:05.025 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:05.026 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:05.027 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:05.028 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.2.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:05.029 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:05.030 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:05.032 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:27.178 [info] Getting Manifest... ms-python.debugpy
+2025-03-07 21:23:27.184 [info] Getting Manifest... ms-python.python
+2025-03-07 21:23:27.187 [info] Getting Manifest... ms-python.vscode-pylance
+2025-03-07 21:23:27.205 [info] Installing extension: ms-python.debugpy
+2025-03-07 21:23:27.207 [info] Installing extension: ms-python.python
+2025-03-07 21:23:27.212 [info] Installing extension: ms-python.vscode-pylance
+2025-03-07 21:23:28.421 [error] [/home/maskura/.vscode/extensions/ms-python.python-2025.2.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.94.0-20240918.
+2025-03-07 21:23:28.450 [info] Extension installed successfully: ms-python.python
+2025-03-07 21:23:28.533 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/maskura/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/maskura/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2025-03-07 21:23:29.950 [info] Getting Manifest... ms-python.python
+2025-03-07 21:23:30.259 [info] Getting Manifest... ms-python.python
+2025-03-07 21:23:31.420 [error] [/home/maskura/.vscode/extensions/ms-python.debugpy-2025.4.0-linux-x64]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.92.0.
+2025-03-07 21:23:31.460 [error] [/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2025.3.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.91.0.
+2025-03-07 21:23:31.468 [info] Extension installed successfully: ms-python.debugpy
+2025-03-07 21:23:31.497 [info] Extension installed successfully: ms-python.vscode-pylance
+2025-03-07 21:23:31.536 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/maskura/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/maskura/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2025-03-07 21:23:40.536 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/maskura/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/maskura/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2025-03-07 21:23:44.869 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/maskura/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/maskura/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2025-03-07 21:23:45.582 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/maskura/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/maskura/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)

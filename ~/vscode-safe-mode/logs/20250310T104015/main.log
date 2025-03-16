@@ -1,0 +1,6 @@
+2025-03-10 10:40:15.499 [info] update#setState idle
+2025-03-10 10:40:26.427 [info] Extension host with pid 4304 exited with code: 0, signal: unknown.
+2025-03-10 10:40:27.441 [error] Extension host with pid 4304 still exists, forcefully killing it...
+2025-03-10 10:40:45.502 [info] update#setState checking for updates
+2025-03-10 10:40:53.701 [info] update#setState available for download
+2025-03-10 12:41:24.027 [info] Extension host with pid 5117 exited with code: 0, signal: unknown.
