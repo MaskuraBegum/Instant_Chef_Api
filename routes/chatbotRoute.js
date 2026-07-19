@@ -26,7 +26,7 @@ router.post("/chat", async (req, res) => {
     `;
 
     const chatCompletion = await hf.chatCompletion({
-      provider: "hf-inference",
+      provider: "featherless-ai",
       model: "meta-llama/Llama-3.1-8B-Instruct",
       messages: [
         { role: "system", content: systemPrompt },
