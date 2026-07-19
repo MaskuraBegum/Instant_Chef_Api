@@ -2,9 +2,8 @@ require("dotenv").config();
 const express = require("express");
 const { InferenceClient } = require("@huggingface/inference");
 
-
 const router = express.Router();
-const hf = new InferenceClient(process.env.HF_TOKEN, { provider: "hf-inference" });
+const hf = new InferenceClient(process.env.HF_TOKEN);
 
 router.post("/chat", async (req, res) => {
   try {
@@ -27,7 +26,8 @@ router.post("/chat", async (req, res) => {
     `;
 
     const chatCompletion = await hf.chatCompletion({
-      model: "meta-llama/Llama-3.1-8B-Instruct", // free-tier friendly, under 10B params
+      provider: "hf-inference",
+      model: "meta-llama/Llama-3.1-8B-Instruct",
       messages: [
         { role: "system", content: systemPrompt },
         { role: "user", content: message },
