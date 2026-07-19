@@ -1,9 +1,10 @@
+require("dotenv").config();
 const express = require("express");
 const { InferenceClient } = require("@huggingface/inference");
-require("dotenv").config();
+
 
 const router = express.Router();
-const hf = new InferenceClient(process.env.HF_TOKEN);
+const hf = new InferenceClient(process.env.HF_TOKEN, { provider: "hf-inference" });
 
 router.post("/chat", async (req, res) => {
   try {
